@@ -11,14 +11,10 @@
             "id": "b3c1aa27fb6fcf16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cardiology/fml.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fml"
+              "title": "New tab"
             }
           }
         ]
