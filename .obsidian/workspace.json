@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/CXR.md",
+                "file": "Infectious Diseases/HIV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CXR"
+              "title": "HIV"
             }
           }
         ]
@@ -178,30 +178,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3c1aa27fb6fcf16",
+  "active": "3fdf4495593bde58",
   "lastOpenFiles": [
-    "Infectious Diseases/Cellulitis.md",
-    "Radiology/CXR.md",
-    "Infectious Diseases",
-    "Psychiatry/MDD.md",
-    "Pulmonology/COPD.md",
-    "RheumImmuno/Sjogrens.md",
-    "Nephrology/Hyponatremia.md",
-    "RheumImmuno",
-    "HemeOnc/Sickle Cell Disease.md",
-    "Gastroenterology/Hepatic Encephalopathy.md",
-    "Cardiology/Atrial Fibrillation.md",
-    "Endocrinology/T2DM.md",
-    "test2.md",
-    "Cardiology/fml.md",
-    "Untitled.base",
-    "Pulmonology - Copy",
-    "New Text Document.txt",
-    "Psychiatry",
-    "Pediatrics",
-    "HemeOnc",
-    "Endocrinology",
-    "Gastroenterology",
-    "Welcome.md"
+    "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
+    "Infectious Diseases/HIV.md",
+    "Infectious Diseases/Pharynx and Respiratory Tract",
+    "HemeOnc/WBC/Non-Hodgkin Lymphomas.md",
+    "HemeOnc/WBC/Neutropenic Fever.md",
+    "HemeOnc/WBC/Myelodysplastic Syndromes.md",
+    "HemeOnc/WBC/Multiple Myeloma.md",
+    "HemeOnc/WBC/Hodgkin Lymphoma.md",
+    "HemeOnc/WBC/Eosinophilia.md",
+    "HemeOnc/WBC/Chronic Myeloid Leukemia.md",
+    "HemeOnc/Aplastic Anemia.md",
+    "HemeOnc/WBC/Chronic Lymphocytic Leukemia.md",
+    "HemeOnc/WBC/Acute Leukemia.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Disseminated Intravascular Coagulation.md",
+    "HemeOnc/WBC",
+    "HemeOnc/Platelet and Coagulation Disorders/Untitled.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Hemophilia.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Heparin-Induced Thrombocytopenia.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Hemolytic Uremic Syndrome.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Immune Thrombocytopenia.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Thrombocytopenia.md",
+    "HemeOnc/Platelet and Coagulation Disorders/Von Willebrand Disease.md",
+    "HemeOnc/RBC/Sickle Cell Disease.md",
+    "HemeOnc/Platelet and Coagulation Disorders",
+    "HemeOnc/RBC/Polycythemia Vera.md",
+    "HemeOnc/RBC/Hereditary Spherocytosis.md",
+    "HemeOnc/RBC/G6PD Deficiency.md",
+    "HemeOnc/RBC/Paroxysmal Nocturnal Hemoglobinuria.md",
+    "HemeOnc/RBC/Hemolytic Anemia.md",
+    "HemeOnc/RBC",
+    "RheumImmuno/Vasculitis/Untitled",
+    "RheumImmuno/Vasculitis",
+    "RheumImmuno/Myopathies and Pain Syndromes",
+    "RheumImmuno/Joints",
+    "RheumImmuno/Connective Tissue",
+    "Endocrinology/Adrenal"
   ]
 }
