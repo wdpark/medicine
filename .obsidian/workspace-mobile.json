@@ -11,10 +11,14 @@
             "id": "2a4ec83e1752465e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Radiology/CXR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CXR"
             }
           }
         ]
@@ -160,11 +164,37 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Endocrinology/T2DM.md",
+    "Endocrinology",
+    "Pulmonology/COPD.md",
+    "Pulmonology",
+    "Gastroenterology/Hepatic Encephalopathy.md",
+    "Gastroenterology",
+    "Radiology/CXR.md",
+    "Radiology",
+    "Psychiatry/MDD.md",
+    "Psychiatry",
+    "HemeOnc/Sickle Cell Disease.md",
+    "HemeOnc",
+    "Nephrology/Hyponatremia.md",
+    "Nephrology",
+    "MSK, Skin, Connective Tissue/Sjogrens.md",
+    "MSK, Skin, Connective Tissue",
+    "/Radiology/CXR.md",
+    "/Pulmonology/COPD.md",
+    "/Psychiatry/MDD.md",
+    "/Nephrology/Hyponatremia.md",
+    "/MSK, Skin, Connective Tissue/Sjogrens.md",
+    "/HemeOnc/Sickle Cell Disease.md",
+    "/Gastroenterology/Hepatic Encephalopathy.md",
+    "/Endocrinology/T2DM.md",
+    "/Cardiology/Atrial Fibrillation.md",
+    "Cardiology/Atrial Fibrillation.md",
+    "/Cardiology",
+    "/Radiology",
     "Cardiology/fml.md",
     "test2.md",
     "/Cardiology/fml.md",
-    "/Cardiology",
-    "Cardiology/test.md",
-    "Cardiology"
+    "Cardiology/test.md"
   ]
 }
