@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychiatry/MDD.md",
+                "file": "Radiology/CXR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MDD"
+              "title": "CXR"
             }
           }
         ]
@@ -180,12 +180,14 @@
   },
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
+    "Infectious Diseases/Cellulitis.md",
     "Radiology/CXR.md",
+    "Infectious Diseases",
     "Psychiatry/MDD.md",
     "Pulmonology/COPD.md",
-    "MSK, Skin, Connective Tissue/Sjogrens.md",
+    "RheumImmuno/Sjogrens.md",
     "Nephrology/Hyponatremia.md",
-    "MSK, Skin, Connective Tissue",
+    "RheumImmuno",
     "HemeOnc/Sickle Cell Disease.md",
     "Gastroenterology/Hepatic Encephalopathy.md",
     "Cardiology/Atrial Fibrillation.md",
@@ -200,7 +202,6 @@
     "HemeOnc",
     "Endocrinology",
     "Gastroenterology",
-    "Pulmonology",
     "Welcome.md"
   ]
 }
