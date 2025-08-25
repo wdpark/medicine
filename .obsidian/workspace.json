@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infectious Diseases/HIV.md",
+                "file": "Radiology/CXR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HIV"
+              "title": "CXR"
             }
           }
         ]
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fdf4495593bde58",
+  "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
-    "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
     "Infectious Diseases/HIV.md",
+    "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
     "Infectious Diseases/Pharynx and Respiratory Tract",
     "HemeOnc/WBC/Non-Hodgkin Lymphomas.md",
     "HemeOnc/WBC/Neutropenic Fever.md",
