@@ -1,0 +1,5 @@
+- growth recovery lines
+- lung hyper inflation -> look at diaphragm distance
+- punctate = too small to measure
+- xr and mri are complementary, try to order them together (for msk)
+- 
