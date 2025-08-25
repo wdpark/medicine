@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/CXR.md",
+                "file": "Radiology/Peds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CXR"
+              "title": "Peds"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
+    "Radiology/CXR.md",
+    "Radiology/Peds.md",
     "Infectious Diseases/HIV.md",
     "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
     "Infectious Diseases/Pharynx and Respiratory Tract",
@@ -207,8 +209,6 @@
     "HemeOnc/RBC/Polycythemia Vera.md",
     "HemeOnc/RBC/Hereditary Spherocytosis.md",
     "HemeOnc/RBC/G6PD Deficiency.md",
-    "HemeOnc/RBC/Paroxysmal Nocturnal Hemoglobinuria.md",
-    "HemeOnc/RBC/Hemolytic Anemia.md",
     "HemeOnc/RBC",
     "RheumImmuno/Vasculitis/Untitled",
     "RheumImmuno/Vasculitis",
