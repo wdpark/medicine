@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Factors for Adequate CXR.md",
+                "file": "Radiology/Basic Densities in Conventional Radiography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factors for Adequate CXR"
+              "title": "Basic Densities in Conventional Radiography"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
-    "Radiology/Pasted image 20250826005411.png",
+    "Radiology/CXR Pathologies.md",
+    "Radiology/Basic Densities in Conventional Radiography.md",
     "Radiology/Factors for Adequate CXR.md",
+    "Radiology/Pasted image 20250826005411.png",
     "Pasted image 20250826005358.png",
     "Radiology/CXR.md",
     "Infectious Diseases/HIV.md",
@@ -209,7 +211,6 @@
     "HemeOnc/RBC/Sickle Cell Disease.md",
     "HemeOnc/Platelet and Coagulation Disorders",
     "HemeOnc/RBC/Polycythemia Vera.md",
-    "HemeOnc/RBC/Hereditary Spherocytosis.md",
     "HemeOnc/RBC",
     "RheumImmuno/Vasculitis/Untitled",
     "RheumImmuno/Vasculitis",
