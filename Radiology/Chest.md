@@ -12,4 +12,6 @@
 	- Poor inspiration: compresses and crowds lung markings
 
 - Rotation:
+	- Look at medial end of clavicle
+	- May alter contours of heart, great vessels, hila, and hemidiaphragm
 	- 
