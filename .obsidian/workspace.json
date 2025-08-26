@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pleur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3c1aa27fb6fcf16",
+  "active": "84c899bcfd5d3a43",
   "lastOpenFiles": [
     "Radiology/Basic Densities in Conventional Radiography.md",
     "Radiology/CXR Pathologies.md",
