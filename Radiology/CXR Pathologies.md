@@ -11,4 +11,4 @@
 | Pleural Effusion        | Left shift  | Left shift  | Disappears           |
 | Pneumonia               | No shift    | Midline     | May disappear        |
 | Atelectasis             | Right shift | Right shift | Upward/May disappear |
-| Pneumonectomy           |             |             |                      |
+| Pneumonectomy           | Right shift | Right shift |                      |
