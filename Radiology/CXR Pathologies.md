@@ -13,17 +13,12 @@
 
 # Pleural Effusion
 
-| Transudative                           | Exudative                            |
-| -------------------------------------- | ------------------------------------ |
-| CHF<br>Cirrhosis<br>Nephrotic Syndrome | Empyema<br>Hemothorax<br>Chylothorax |
-| Hypoalbuminemia                        |                                      |
-|                                        |                                      |
-|                                        |                                      |
-
-- Exudative
-	- Empyema
-	- Hemothorax
-	- Chylothorax
+| Transudative       | Exudative   |
+| ------------------ | ----------- |
+| CHF                | Empyema     |
+| Hypoalbuminemia    | Hemothorax  |
+| Cirrhosis          | Chylothorax |
+| Nephrotic Syndrome |             |
 
 - Subpulmonic Effusion
 	- Free flowing below diaphragm
@@ -38,4 +33,10 @@
 - Meniscus Sign
 	- Pleural fluid level shaped like meniscus ("U")
 
-- 
+- Loculated Effusions
+	- Limited mobility of pleural effusion often due to adhesions, old empyema, or hemothorax
+	- Do not change appearance with positional changes
+	- Difficult to drain due to non-communicating pockets
+
+- Fissural Pseudotumors
+	- 
