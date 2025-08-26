@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Chest.md",
+                "file": "Radiology/Factors for Adequate CXR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chest"
+              "title": "Factors for Adequate CXR"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
     "Radiology/Pasted image 20250826005411.png",
-    "Radiology/Chest.md",
+    "Radiology/Factors for Adequate CXR.md",
     "Pasted image 20250826005358.png",
     "Radiology/CXR.md",
     "Infectious Diseases/HIV.md",
