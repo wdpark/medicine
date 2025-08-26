@@ -6,9 +6,9 @@
 
 
 
-|                  | Heart | Trachea | Right Hemidiaphragm |
-| ---------------- | ----- | ------- | ------------------- |
-| Pleural Effusion |       |         |                     |
-| Pneumonia        |       |         |                     |
-| Atelectasis      |       |         |                     |
-| Pneumonectomy    |       |         |                     |
+| For Right Hemithorax -> | Heart       | Trachea     | Right Hemidiaphragm  |
+| ----------------------- | ----------- | ----------- | -------------------- |
+| Pleural Effusion        | Left shift  | Left shift  | Disappears           |
+| Pneumonia               | No shift    | Midline     | May disappear        |
+| Atelectasis             | Right shift | Right shift | Upward/May disappear |
+| Pneumonectomy           |             |             |                      |
