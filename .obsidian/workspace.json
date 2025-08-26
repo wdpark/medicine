@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Basic Densities in Conventional Radiography.md",
+                "file": "Radiology/CXR Pathologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Densities in Conventional Radiography"
+              "title": "CXR Pathologies"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
-    "Radiology/CXR Pathologies.md",
     "Radiology/Basic Densities in Conventional Radiography.md",
+    "Radiology/CXR Pathologies.md",
     "Radiology/Factors for Adequate CXR.md",
     "Radiology/Pasted image 20250826005411.png",
     "Pasted image 20250826005358.png",
