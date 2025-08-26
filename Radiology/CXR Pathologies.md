@@ -12,4 +12,17 @@
 | Pneumonectomy           | Right shift | Right shift | Upward/May disappear |
 
 # Pleural Effusion
-- 
+- Transudative
+	- CHF
+	- Hypoalbuminemia
+	- Cirrhosis
+	- Nephrotic Syndrome
+
+- Exudative
+	- Empyema
+	- Hemothorax
+	- Chylothorax
+
+- Subpulmonic Effusion
+	- Free flowing below diaphragm
+	- 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b5344b17426db1",
+        "id": "a654fa207cf04857",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c1aa27fb6fcf16",
+            "id": "e73b7044e3f4dcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pleur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c899bcfd5d3a43",
+  "active": "e73b7044e3f4dcab",
   "lastOpenFiles": [
-    "Radiology/Basic Densities in Conventional Radiography.md",
     "Radiology/CXR Pathologies.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Radiology/Basic Densities in Conventional Radiography.md",
     "Radiology/Factors for Adequate CXR.md",
     "Radiology/Pasted image 20250826005411.png",
     "Pasted image 20250826005358.png",
@@ -211,7 +212,6 @@
     "HemeOnc/Platelet and Coagulation Disorders/Von Willebrand Disease.md",
     "HemeOnc/RBC/Sickle Cell Disease.md",
     "HemeOnc/Platelet and Coagulation Disorders",
-    "HemeOnc/RBC/Polycythemia Vera.md",
     "HemeOnc/RBC",
     "RheumImmuno/Vasculitis/Untitled",
     "RheumImmuno/Vasculitis",
