@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Peds.md",
+                "file": "Radiology/Chest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peds"
+              "title": "Chest"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "b3c1aa27fb6fcf16",
   "lastOpenFiles": [
     "Radiology/CXR.md",
-    "Radiology/Peds.md",
+    "Radiology/Chest.md",
     "Infectious Diseases/HIV.md",
     "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
     "Infectious Diseases/Pharynx and Respiratory Tract",
