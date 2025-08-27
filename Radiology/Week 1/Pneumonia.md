@@ -11,8 +11,18 @@
 
 - Lobar Pneumonia
 	- Think Strep pneumo
+	- Starts in alveoli
 	- Homogenous collection + air bronchograms (air-filled bronchi visible as dark tubes)
 	- Loss of silhouette sign
 		- Consolidation obscures outlines of other organs such as the heart, aorta, or diaphragm
 
 - Segmental Pneumonia
+	- Think Staph aureus
+	- Starts in airways as acute bronchitis
+		- Patchy airspace disease, often several segments simultaneously
+		- Margins are fluffy and indistinct
+		- No air bronchograms
+
+- Interstitial Pneumonia
+	- Think viral like Mycoplasma or PJP
+	- 
