@@ -18,5 +18,5 @@
 	- Visualization of convex visceral pleural line that parallels contour of chest wall
 	- Absence of lung markings beyond visceral pleural line
 	- Deep sulcus sign
-		- Very deep costophrenic angle
+		- Very deep costophrenic angle when supine
 	- Air-fluid level in pleural space
