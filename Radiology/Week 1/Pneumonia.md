@@ -1,7 +1,9 @@
 - Definition
 	- Consolidation of lung produced by inflammatory exudate
+
 - General characteristic
 	- More dense than surrounding aerated lung
+
 - Patterns
 	- Lobar
 	- Segmental
@@ -31,5 +33,12 @@
 	- Diffuse spread throughout lungs
 
 - Round Pneumonia
-	- Think children and H. influenzae, Strep, and Pneumococcus
-	- 
+	- Think children + H. influenzae and Strep pneumo
+	- Spherical shape that resembles mass
+	- Lower lobes usually
+
+- Cavitary Pneumonia
+	- Think TB, Staph, Klebsiella, Coccidio
+	- Usually post primary TB (reactivated TB)
+		- Upper lobe predominance
+		- Thin-walled, no air-fluid levels
