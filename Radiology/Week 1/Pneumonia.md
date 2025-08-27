@@ -1,0 +1,9 @@
+- Definition: Consolidation of lung produced by inflammatory exudate
+- General characteristic: More dense than surrounding aerated lung
+- Patterns:
+	- Lobar
+	- Segmental
+	- Interstitial
+	- Round
+	- Cavitary
+- 
