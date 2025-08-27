@@ -25,4 +25,11 @@
 
 - Interstitial Pneumonia
 	- Think viral like Mycoplasma or PJP
+	- Reticular = lines
+	- Nodular = dots
+	- Reticulonodular = lines and dots
+	- Diffuse spread throughout lungs
+
+- Round Pneumonia
+	- Think children and H. influenzae, Strep, and Pneumococcus
 	- 
