@@ -165,3 +165,14 @@ ___
 - => The paraspinal lines are disrupted by paravertebral disease
 	- Disease from intervertebral disks and vertebrae
 	- Neurogenic tumors
+- Also projects below the level of the diaphragm
+
+
+---
+**TL;DR**
+- Anterior mediastinum identification
+	- Hilum overlay sign
+	- Preservation of posterior mediastinal lines (posterior junction line)
+
+- Middle mediastinum identification
+	- Widened paratracheal stripe
