@@ -175,4 +175,13 @@ ___
 	- Preservation of posterior mediastinal lines (posterior junction line)
 
 - Middle mediastinum identification
-	- Widened paratracheal stripe
+	- Widened paratracheal stripe = abnormal
+	- AP window convex = abnormal
+
+- Azygoesophageal recess disruption can be either middle or posterior mediastinum
+
+- Posterior mediastinum identification
+	- Paravertebral masses disrupt paraspinal lines
+	- Location of masses above level of clavicle can be inferred by lateral margins
+		- Posterior masses have sharp margins due to lung interface
+		- Anterior masses have blurred margins due to no lung interface
