@@ -58,7 +58,12 @@ ___
 	- Lymphatic malformations
 	- Hemangiomas
 
+- **=> Thymus, Thyroid, Thoracic aorta, Terrible Lymphoma, Teratoma**
+
 - Anterior Junction Line
 	- 4 Pleural layers separating lungs behind sternum
 	- Runs obliquely upper right to lower left below manubriosternal junction
-	- 
+
+- Hilum Overlay Sign
+	- Hila visualization suggests mass is either anterior or posterior to the hila of the lungs
+
