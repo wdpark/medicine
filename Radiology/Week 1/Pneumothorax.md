@@ -1,0 +1,22 @@
+- Definition
+	- Air within the pleural space between parietal and visceral pleura
+
+- Types
+	- Simple
+		- No shift in mediastinal structures
+	- Tension
+		- Shift of mediastinum AWAY from pneumothorax
+		- Cardiopulmonary compromise
+- 
+- Causes
+	- Spontaneous
+		- Rupture of apical or subpleural bleb or bulla
+		- Tall, thin males ages 20-40 have highest risk
+	- Traumatic or iatrogenic
+
+- Signs
+	- Visualization of convex visceral pleural line that parallels contour of chest wall
+	- Absence of lung markings beyond visceral pleural line
+	- Deep sulcus sign
+		- Very deep costophrenic angle when supine
+	- Air-fluid level in pleural space

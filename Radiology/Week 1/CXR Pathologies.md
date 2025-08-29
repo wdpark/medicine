@@ -11,5 +11,4 @@
 | Atelectasis             | Right shift | Right shift | Upward/May disappear |
 | Pneumonectomy           | Right shift | Right shift | Upward/May disappear |
 
-# Pleural Effusion
-- 
+
