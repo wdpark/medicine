@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Peds.md",
+                "file": "Radiology/CXR Pathologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peds"
+              "title": "CXR Pathologies"
             }
           }
         ]
@@ -164,7 +164,12 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Radiology/Factors for Adequate CXR.md",
+    "Radiology/CXR Pathologies.md",
     "Radiology/Peds.md",
+    "/Radiology/Factors for Adequate CXR.md",
+    "/Radiology/CXR Pathologies.md",
+    "/Radiology",
     "RheumImmuno/Connective Tissue/Amyloidosis.md",
     "Nephrology/Rhabdomyolysis.md",
     "Nephrology/Phosphate Management.md",
@@ -187,18 +192,13 @@
     "Pulmonology/Transfusion Reactions.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
     "Gastroenterology/Spleen/Splenomegaly.md",
-    "Gastroenterology/Spleen/Asplenia.md",
     "Gastroenterology/Spleen",
-    "Nephrology/Nephrolithiasis.md",
-    "Nephrology/Potassium Management.md",
-    "Nephrology/Polycystic Kidney Disease.md",
     "Gastroenterology/Esophagus",
     "Infectious Diseases",
     "Nephrology/Tubulointerstitial Disease",
     "Cardiology/Valvular Heart Disease",
     "Nephrology/Renal Failure",
     "Gastroenterology/Hernias",
-    "Cardiology/Arrhythmias",
-    "Pulmonology/Infectious Lung Diseases"
+    "Cardiology/Arrhythmias"
   ]
 }
