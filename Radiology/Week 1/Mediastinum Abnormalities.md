@@ -58,13 +58,13 @@ ___
 	- Lymphatic malformations
 	- Hemangiomas
 
-- **=> Thymus, Thyroid, Thoracic aorta, Terrible Lymphoma, Teratoma**
+- **Thymus, Thyroid, Thoracic aorta, Terrible Lymphoma, Teratoma**
 
 - Anterior Junction Line
 	- 4 Pleural layers separating lungs behind sternum
 	- Runs obliquely upper right to lower left below manubriosternal junction
 
-- Hilum Overlay Sign
+- => Hilum Overlay Sign
 	- Hila visualization suggests mass is either anterior or posterior to the hila of the lungs
 
 ---
@@ -96,7 +96,7 @@ ___
 	- Pericardial cyst
 	- Tracheal lesion
 
-- Right paratracheal stripe: Interface between right lung and trachea
+- => Right paratracheal stripe: Interface between right lung and trachea
 	- Normal: 1-4 mm
 	- Widened: >4 mm
 	- Azygos vein is also here running posteroinferiorly from SVC
@@ -110,7 +110,7 @@ ___
 	- Anterior: Posterior wall of ascending aorta
 	- Posterior: Anterior wall of descending aorta
 
-- A convex border between the AP window and the lung is considered ABNORMAL
+- => A convex border between the AP window and the lung is considered ABNORMAL
 	- Normally concave
 
 
@@ -150,4 +150,5 @@ ___
 **Azygoesophageal Recess**
 - Interface between the right lung and the mediastinal reflection inferior to the arch of the azygos vein
 	- Esophagus anteriorly and azygos vein posteriorly
-- 
+- => The azygoesophageal recess is a prevertebral structure that can be distorted by both middle and posterior mediastinum abnormalities
+
