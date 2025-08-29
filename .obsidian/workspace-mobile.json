@@ -11,10 +11,14 @@
             "id": "2a4ec83e1752465e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Radiology/Week 1/Mediastinum Abnormalities.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mediastinum Abnormalities"
             }
           }
         ]
@@ -158,8 +162,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e57842057dd043b",
+  "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Radiology/CXR Pathologies.md",
     "Radiology/Week 1/Mediastinum Abnormalities.md",
     "Radiology/Week 1/Pneumothorax.md",
     "Radiology/Week 1/Pleural Effusion.md",
@@ -176,7 +181,6 @@
     "/Radiology/Week 1",
     "/Radiology",
     "Radiology/Factors for Adequate CXR.md",
-    "Radiology/CXR Pathologies.md",
     "Radiology/Peds.md",
     "/Radiology/Factors for Adequate CXR.md",
     "/Radiology/CXR Pathologies.md",
