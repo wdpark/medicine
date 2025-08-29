@@ -96,14 +96,19 @@ ___
 	- Pericardial cyst
 	- Tracheal lesion
 
+- Right paratracheal stripe: Interface between right lung and trachea
+	- Normal: 1-4 mm
+	- Widened: >4 mm
+	- Azygos vein is also here running posteroinferiorly from SVC
+	- Most common obliteration is due to lymphadenopathy
+
+**Mediastinal Reflections at the AP Window**
 - Aortopulmonary (AP) Window
 	- Superior: Inferior margin of aortic arch
 	- Inferior: Superior margin of left PA
 	- Anterior: Posterior wall of ascending aorta
 	- Posterior: Anterior wall of descending aorta
 
-- Right paratracheal stripe: Interface between right lung and trachea
-	- Normal: 1-4 mm
-	- Widened: >4 mm
-	- Azygos vein is also here running posteroinferiorly from SVC
-	- Most common obli
+- A convex border between the AP window and the lung is considered ABNORMAL
+	- Normally concave
+
