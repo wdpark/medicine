@@ -87,7 +87,7 @@ ___
 
 - Masses
 	- Lymphadenopathy
-	- AAA
+	- Ascending AA
 	- Enlarged pulmonary artery
 	- Foregut duplication cysts
 		- Bronchogenic
@@ -115,5 +115,39 @@ ___
 
 
 **Pitfalls in Assessing the Middle Mediastinum**
-- Consider right-sided aortic arch (0.5% incidence), especially if aortic knuckle absent on left
+- Consider right-sided aortic arch (0.5% prevalence), especially if aortic knuckle absent on left
+	- Also left-sided SVC (0.3% prevalence)
+- Enlarged azygos vein in the absence of normal IVC development could be mistaken for lymphadenopathy
+
+
+---
+**Posterior Mediastinum**
+- Bounds
+	- Superior: Thoracic inlet
+	- Inferior: Diaphragm
+	- Anterior: Posterior trachea and pericardium
+	- Posterior: Vertebral column
+
+- Contents
+	- Esophagus
+	- Descending aorta
+	- Azygos and hemiazygos veins
+	- Thoracic duct
+	- Vagus + splanchnic nerves
+	- Lymph nodes
+	- Fat
+
+- Masses
+	- Esophageal lesions, hiatal hernia
+	- Foregut duplication cyst
+	- Descending AA
+	- Neurogenic tumor
+	- Paraspinal abscess
+	- Lateral meningocele
+	- Extramedullary hematopoiesis
+
+
+**Azygoesophageal Recess**
+- Interface between the right lung and the mediastinal reflection inferior to the arch of the azygos vein
+	- Esophagus anteriorly and azygos vein posteriorly
 - 
