@@ -152,3 +152,16 @@ ___
 	- Esophagus anteriorly and azygos vein posteriorly
 - => The azygoesophageal recess is a prevertebral structure that can be distorted by both middle and posterior mediastinum abnormalities
 
+
+**Posterior Junction Line**
+- Above azygos vein and aorta formed by 4 pleural layers separating the lungs located posterior to the esophagus
+	- Usually between T3-T5
+- Straight vertical, unlike anterior junction line
+- Prevertebral disease superior to aortic arch may obliterate posterior junction line
+
+
+**Paraspinal Lines**
+- Interface between lungs and pleural reflections over the vertebral bodies
+- => The paraspinal lines are disrupted by paravertebral disease
+	- Disease from intervertebral disks and vertebrae
+	- Neurogenic tumors
