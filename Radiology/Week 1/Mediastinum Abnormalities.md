@@ -102,6 +102,7 @@ ___
 	- Azygos vein is also here running posteroinferiorly from SVC
 	- Most common obliteration is due to lymphadenopathy
 
+
 **Mediastinal Reflections at the AP Window**
 - Aortopulmonary (AP) Window
 	- Superior: Inferior margin of aortic arch
@@ -112,3 +113,7 @@ ___
 - A convex border between the AP window and the lung is considered ABNORMAL
 	- Normally concave
 
+
+**Pitfalls in Assessing the Middle Mediastinum**
+- Consider right-sided aortic arch (0.5% incidence), especially if aortic knuckle absent on left
+- 
