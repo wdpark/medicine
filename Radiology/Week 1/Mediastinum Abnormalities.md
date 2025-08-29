@@ -29,7 +29,7 @@ ___
 	- Superior: Thoracic inlet
 	- Inferior: Diaphragm
 
-- Contents:
+- Contents
 	- Thymus
 	- Lymph nodes
 	- Adipose tissue
@@ -67,3 +67,33 @@ ___
 - Hilum Overlay Sign
 	- Hila visualization suggests mass is either anterior or posterior to the hila of the lungs
 
+---
+**Middle Mediastinum**
+- Bounds
+	- Anterior: Pericardium
+	- Posterior: Pericardium and posterior tracheal wall
+	- Superior: Thoracic inlet
+	- Inferior: Diaphragm
+
+- Contents
+	- Heart + pericardium
+	- Ascending and transverse aorta
+	- SVC and IVC
+	- Brachiocephalic vessels
+	- Pulmonary vessels
+	- Trachea + main bronchi
+	- Lymph nodes
+	- Phrenic + vagus + left recurrent laryngeal nerves
+
+- Masses
+	- Lymphadenopathy
+	- AAA
+	- Enlarged pulmonary artery
+	- Foregut duplication cysts
+		- Bronchogenic
+		- Esophageal
+		- Neurenteric
+	- Pericardial cyst
+	- Tracheal lesion
+
+- 
