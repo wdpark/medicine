@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Peds.md",
+                "file": "Radiology/Week 1/Mediastinum Abnormalities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peds"
+              "title": "Mediastinum Abnormalities"
             }
           }
         ]
@@ -164,7 +164,26 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Radiology/CXR Pathologies.md",
+    "Radiology/Week 1/Mediastinum Abnormalities.md",
+    "Radiology/Week 1/Pneumothorax.md",
+    "Radiology/Week 1/Pleural Effusion.md",
+    "Radiology/Week 1/Pneumonia.md",
+    "Radiology/Week 1/Factors for Adequate CXR.md",
+    "Radiology/Week 1/CXR Pathologies.md",
+    "Radiology/Week 1",
+    "/Radiology/Week 1/Mediastinum Abnormalities.md",
+    "/Radiology/Week 1/Pleural Effusion.md",
+    "/Radiology/Week 1/CXR Pathologies.md",
+    "/Radiology/Week 1/Pneumothorax.md",
+    "/Radiology/Week 1/Pneumonia.md",
+    "/Radiology/Week 1/Factors for Adequate CXR.md",
+    "/Radiology/Week 1",
+    "/Radiology",
+    "Radiology/Factors for Adequate CXR.md",
     "Radiology/Peds.md",
+    "/Radiology/Factors for Adequate CXR.md",
+    "/Radiology/CXR Pathologies.md",
     "RheumImmuno/Connective Tissue/Amyloidosis.md",
     "Nephrology/Rhabdomyolysis.md",
     "Nephrology/Phosphate Management.md",
@@ -174,31 +193,12 @@
     "Nephrology/Calcium Management.md",
     "Pulmonology/Pneumothorax.md",
     "Cardiology/Heart Failure.md",
-    "Nephrology/Fibromuscular Dysplasia.md",
-    "Nephrology/IV Fluid Management.md",
-    "Endocrinology/Paget Disease of Bone.md",
-    "Pulmonology/Restrictive Lung Disease/Granulomatosis with Polyangiitis.md",
-    "Pulmonology/Restrictive Lung Disease/Hypersensitivity Pneumonitis.md",
-    "Pulmonology/Restrictive Lung Disease/Interstitial Lung Disease.md",
     "Pulmonology/Restrictive Lung Disease",
-    "Endocrinology/Osteoporosis.md",
-    "Pulmonology/Acute Respiratory Distress Syndrome.md",
-    "Pulmonology/Pulmonary Hypertension.md",
-    "Pulmonology/Transfusion Reactions.md",
-    "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
-    "Gastroenterology/Spleen/Splenomegaly.md",
-    "Gastroenterology/Spleen/Asplenia.md",
     "Gastroenterology/Spleen",
-    "Nephrology/Nephrolithiasis.md",
-    "Nephrology/Potassium Management.md",
-    "Nephrology/Polycystic Kidney Disease.md",
     "Gastroenterology/Esophagus",
     "Infectious Diseases",
     "Nephrology/Tubulointerstitial Disease",
     "Cardiology/Valvular Heart Disease",
-    "Nephrology/Renal Failure",
-    "Gastroenterology/Hernias",
-    "Cardiology/Arrhythmias",
-    "Pulmonology/Infectious Lung Diseases"
+    "Nephrology/Renal Failure"
   ]
 }
