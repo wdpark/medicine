@@ -124,4 +124,21 @@ Epiploic Appendagitis
 	- Central dot, irregular, or linear focus may also be present
 
 Omental Infarction
+- Causes
+	- Primary: Coughing, straining, overeating
+	- Secondary: Vascular damage (thrombosis or torsion) related to trauma, surgery, hernia, or adhesion
+- CT findings
+	- Solitary, well-circumscribed, triangular or oval heterogeneous fatty mass
+	- Sometimes whorled pattern of concentric linear fat stranding
+	- Located between anterior abdominal wall and transverse or ascending colon = greater omentum
+	- Usually minimal bowel wall thickening
+
+Mesenteric Adenitis
+- Clustered (more than three) right-sided lymph nodes in the small bowel mesentery or anterior to the psoas muscle without an acute inflammatory condition
+- Usually in children, secondary form common in adults
+- Primary is a diagnosis of exclusion
+
+---
+**Miscellaneous Conditions**
+Endometriosis
 - 
