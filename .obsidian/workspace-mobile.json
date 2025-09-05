@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Week 1/Mediastinum Abnormalities.md",
+                "file": "Radiology/Week 2/Extraluminal Air.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mediastinum Abnormalities"
+              "title": "Extraluminal Air"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Radiology/Week 2/Gas Pattern.md",
+    "Radiology/Week 1/Mediastinum Abnormalities.md",
     "Radiology/Week 2/Extraluminal Air.md",
     "Radiology/Week 2/Calcifications.md",
     "Radiology/Week 2/RLQ Abdominal Pain on CT.md",
-    "Radiology/Week 2/Gas Pattern.md",
     "Radiology/Week 2/Soft-Tissue Mass and Organomegaly.md",
     "/Radiology/Week 2/RLQ Abdominal Pain on CT.md",
     "/Radiology/Week 2/Extraluminal Air.md",
@@ -179,7 +180,6 @@
     "/Radiology",
     "Radiology/Week 1/Pneumothorax.md",
     "Radiology/Week 1/Pleural Effusion.md",
-    "Radiology/Week 1/Mediastinum Abnormalities.md",
     "Radiology/CXR Pathologies.md",
     "Radiology/Week 1/Pneumonia.md",
     "Radiology/Week 1/Factors for Adequate CXR.md",
