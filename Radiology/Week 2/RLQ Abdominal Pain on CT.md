@@ -166,3 +166,12 @@ Cecal Volvulus
 - => Combination of distended ectopic cecum and the swirl of mesenteric vessels is seen in type I and II cecal volvulus
 	- In type II, the cecum usually occupies the LUQ
 	- In type III, the vessels swirls are not present
+
+Ischemic Colitis
+- Forms
+	- Occlusive or thromboembolic (80%)
+	- Non-occlusive (20%)
+	- CT findings
+		- Early stages: ischemia appears hyperattenuating or hyperenhancing mucosa 2/2 hyperemia and hemorrhagic phenomena
+		- Circumferential bowel wall thickening due to submucosal edema
+		- Advanced stages: enhancement usually decreases due to vasospasm, then bowel dilatation
