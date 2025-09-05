@@ -29,4 +29,14 @@
 	- Primary: Pneumatosis cystoides
 		- Left colon (cyst-like collections of air in submucosa and serosa)
 	- Secondary: Obstructive and necrotizing disease
-		- 
+		- COPD
+		- Bowel necrosis
+			- Necrotizing intestinalis (infants)
+			- Ischemic bowel (adults)
+		- Bowel obstruction
+			- Hirschsprung's and pyloric stenosis (children)
+			- Obstructing carcinoma (adults)
+- Signs
+	- Linear radiolucency paralleling the contour of air in adjacent bowel lumen
+	- Mottled appearance that resembles air mixed with fecal material
+	- 
