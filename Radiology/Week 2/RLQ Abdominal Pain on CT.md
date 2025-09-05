@@ -5,4 +5,7 @@
 
 **Protocols**
 - No consensus on whether IV, oral, or rectal contrast in RLQ pain evaluation
-- 
+- However, IV contrast helps with CT evaluation of alternative diagnoses
+	- Contraindications:
+		- Abnormal renal function = low GFR
+		- Prior allergic reaction to iodinated contrast
