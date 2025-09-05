@@ -46,3 +46,26 @@
 		- Circumferential wall thickening with areas of low attenuation 2/2 edema or necrosis
 		- Inflammatory stranding of the adjacent mesenteric fat
 		- => Consider typhlitis in immunocompromised patients with circumferential and symmetric wall thickening of the cecum and ascending colon
+
+---
+**Diverticulitis**
+- Right Colonic and Cecal Diverticulitis
+	- Most common in elderly patients
+	- Most commonly LLQ pain (left and sigmoid colon)
+	- Less often right colon and cecum, mimicking appendicitis
+	- CT findings
+		- Asymmetric or circumferential colonic wall thickening
+		- Associated focal pericolic fat stranding
+		- => When cecum or right colon is affected, demonstration of inflamed diverticula (usually located at the level of max pericolic inflammation), along with normal appendix = not appendicitis
+
+- Ileal and Meckel Diverticulitis
+	- Ileal
+		- Usually asymptomatic, often in men over 40
+		- Clinical presentation similar to acute appendicitis
+		- Complications
+			- Perforation
+			- Bleeding
+			- SBO
+	- Meckel
+		- Most common congenital anomaly
+		- Non-obliteration of the omphalomesenteric duct
