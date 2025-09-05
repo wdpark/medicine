@@ -29,3 +29,11 @@
 		- Strictures causing obstruction
 		- Fistulas
 		- Abscesses
+	- Consider MRI for younger patient population with Crohns
+
+- Infectious Enterocolitis
+	- *Yersinia enterocolitica, Campylobacter jejuni, Salmonella enteritidis*
+	- Nonspecific CT findings
+		- Circumferential mural thickening of terminal ileum and cecum
+		- Homogenous enhancement and adjacent adenopathy
+		- Fat stranding, ascites, air-fluid levels sometimes
