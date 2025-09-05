@@ -109,4 +109,8 @@
 		- Homogenous attenuation
 		- Poor enhancement
 	- Lack of signs of obstruction despite large mass --> lymphoma
-	- Bulky mesenteric and retroperitoneal lymph nodes --> lymphoma (vs. adeno)
+	- Bulky mesenteric and retroperitoneal lymph nodes --> lymphoma (vs. adenocarcinoma)
+
+---
+**Epiploic Appendagitis**
+- Round, fat containing peritoneal pouches from the serosal surface of the colon
