@@ -9,3 +9,10 @@
 	- Contraindications:
 		- Abnormal renal function = low GFR
 		- Prior allergic reaction to iodinated contrast
+
+**Radiation Dose**
+- ALARA = as low as reasonably achievable
+- <14 yo or pregnant? --> use ultrasound or nonenhanced MRI
+
+**Importance of Conditions beyond Appendicitis**
+- 
