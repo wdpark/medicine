@@ -91,4 +91,22 @@
 
 ---
 **Malignancies**
-- 
+- Adenocarcinoma
+	- >95% of malignant cecal masses are adenocarcinomas
+	- Complications
+		- Perforation
+		- Abscesses
+
+- Lymphoma
+	- 80% in ileocecal region due to Peyer patches
+	- Forms
+		- Circumferential/Constrictive
+		- Polypoid
+		- Ulcerative
+		- Aneurysmal
+	- CT findings
+		- Single or multiple segmental areas of circumferential thickening
+		- Homogenous attenuation
+		- Poor enhancement
+	- Lack of signs of obstruction despite large mass --> lymphoma
+	- Bulky mesenteric and retroperitoneal lymph nodes --> lymphoma (vs. adeno)
