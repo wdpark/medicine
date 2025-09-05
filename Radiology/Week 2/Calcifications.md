@@ -10,4 +10,14 @@
 		- Can be confused for biliary or renal calculi
 
 - Abnormal Calcifications
-	- ****
+	- **Rim-like**
+		- Calcifications in the wall of a hollow viscus
+		- Atherosclerosis and porcelain gallbladder
+	- **Linear/Track-like**
+		- Calcifications in the wall of tubular structures
+		- Splenic artery calcifications and vas deferens calcifications
+	- **Lamellar**
+		- Calcifications that form inside a hollow lumen
+		- Renal calculi and gallstones
+	- **Amorphous**
+		- 
