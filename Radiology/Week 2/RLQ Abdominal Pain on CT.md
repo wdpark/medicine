@@ -14,6 +14,8 @@
 - ALARA = as low as reasonably achievable
 - <14 yo or pregnant? --> use ultrasound or nonenhanced MRI
 
+---
+
 **Inflammatory and Infectious Conditions Involving the Ileocecal Region**
 - Crohn Disease
 	- Most common CT findings
@@ -37,3 +39,10 @@
 		- Circumferential mural thickening of terminal ileum and cecum
 		- Homogenous enhancement and adjacent adenopathy
 		- Fat stranding, ascites, air-fluid levels sometimes
+
+- Neutropenic Colitis (Typhlitis)
+	- CT findings
+		- Cecal distention
+		- Circumferential wall thickening with areas of low attenuation 2/2 edema or necrosis
+		- Inflammatory stranding of the adjacent mesenteric fat
+		- => Consider typhlitis in immunocompromised patients with circumferential and symmetric wall thickening of the cecum and ascending colon
