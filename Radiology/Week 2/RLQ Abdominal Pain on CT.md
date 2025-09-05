@@ -14,5 +14,18 @@
 - ALARA = as low as reasonably achievable
 - <14 yo or pregnant? --> use ultrasound or nonenhanced MRI
 
-**Importance of Conditions beyond Appendicitis**
-- 
+**Inflammatory and Infectious Conditions Involving the Ileocecal Region**
+- Crohn Disease
+	- Most common CT findings
+		- Eccentric wall thickening
+		- Mucosal hyperenhancement --> inflammation
+		- Mural stratification
+	- Skipped regions --> more likely Crohn vs. UC
+	- Comb sign
+		- Engorgement of vasa recta that penetrate the bowel wall
+	- Creeping fat sign
+		- Fibro-fatty proliferation along mesenteric border of affected bowel
+	- Complications
+		- Strictures causing obstruction
+		- Fistulas
+		- Abscesses
