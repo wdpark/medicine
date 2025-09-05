@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Week 2/Gas Pattern.md",
+                "file": "Radiology/Week 2/RLQ Abdominal Pain on CT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas Pattern"
+              "title": "RLQ Abdominal Pain on CT"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "e73b7044e3f4dcab",
   "lastOpenFiles": [
-    "Radiology/Week 2/Soft-Tissue Mass and Organomegaly.md",
     "Radiology/Week 2/Gas Pattern.md",
+    "Radiology/Week 2/RLQ Abdominal Pain on CT.md",
+    "Radiology/Week 2/Soft-Tissue Mass and Organomegaly.md",
     "Radiology/Week 2/Calcifications.md",
     "Radiology/Week 2/Extraluminal Air.md",
     "Radiology/Week 1/Mediastinum Abnormalities.md",
@@ -214,7 +215,6 @@
     "HemeOnc/WBC/Acute Leukemia.md",
     "HemeOnc/Platelet and Coagulation Disorders/Disseminated Intravascular Coagulation.md",
     "HemeOnc/WBC",
-    "HemeOnc/Platelet and Coagulation Disorders/Untitled.md",
     "HemeOnc/Platelet and Coagulation Disorders",
     "HemeOnc/RBC",
     "RheumImmuno/Vasculitis/Untitled",
