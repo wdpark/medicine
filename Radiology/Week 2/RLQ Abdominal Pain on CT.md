@@ -112,5 +112,16 @@
 	- Bulky mesenteric and retroperitoneal lymph nodes --> lymphoma (vs. adenocarcinoma)
 
 ---
-**Epiploic Appendagitis**
+**Other Conditions**
+Epiploic Appendagitis
 - Round, fat containing peritoneal pouches from the serosal surface of the colon
+- Typically LLQ, less frequently right colon and cecum
+- Forms
+	- Primary: Spontaneous torsion of epiploic appendages with resultant vascular occlusion and ischemia
+	- Secondary: Inflammation of adjacent organs (colon, gallbladder, appendix)
+- CT findings
+	- Pericolic oval lesion of fat attenuation with hyperattenuating rim
+	- Central dot, irregular, or linear focus may also be present
+
+Omental Infarction
+- 
