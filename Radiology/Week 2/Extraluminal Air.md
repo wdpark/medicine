@@ -47,3 +47,7 @@
 	- Prior sphincterotomy
 	- Prior surgery of CBD
 	- Gallstone ileus
+	- Gas-forming pyogenic cholangitis
+- Signs
+	- Tube-like, branching lucencies in the right upper quadrant on liver
+	- Air in the wall of the gallbladder
