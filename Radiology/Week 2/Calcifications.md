@@ -1,0 +1,23 @@
+- Normal Calcifications
+	- **Phleboliths**
+		- Small, round calcifications = calcified venous thrombi
+		- Most common in pelvic veins
+		- Women > men
+
+	- **Rib Cartilage Calcifications**
+		- Amorphous, speckled along arc of rib
+		- Occurs with increased age
+		- Can be confused for biliary or renal calculi
+
+- Abnormal Calcifications
+	- **Rim-like**
+		- Calcifications in the wall of a hollow viscus
+		- Atherosclerosis and porcelain gallbladder
+	- **Linear/Track-like**
+		- Calcifications in the wall of tubular structures
+		- Splenic artery calcifications and vas deferens calcifications
+	- **Lamellar**
+		- Calcifications that form inside a hollow lumen
+		- Renal calculi and gallstones
+	- **Amorphous**
+		- Calcifications inside solid organ or tumor

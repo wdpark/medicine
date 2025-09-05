@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Week 1/Factors for Adequate CXR.md",
+                "file": "Radiology/Week 2/RLQ Abdominal Pain on CT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factors for Adequate CXR"
+              "title": "RLQ Abdominal Pain on CT"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0c92c8299ce36718",
@@ -180,12 +181,19 @@
   },
   "active": "e73b7044e3f4dcab",
   "lastOpenFiles": [
+    "Radiology/Week 2/Gas Pattern.md",
+    "Radiology/Week 2/Soft-Tissue Mass and Organomegaly.md",
     "Radiology/Week 1/Mediastinum Abnormalities.md",
+    "Radiology/Week 2/RLQ Abdominal Pain on CT.md",
+    "Radiology/Week 2/Calcifications.md",
+    "Radiology/Week 2/Extraluminal Air.md",
+    "Radiology/Week 1/Factors for Adequate CXR.md",
     "Radiology/Week 1/Pneumothorax.md",
+    "Radiology/Week 1/CXR Pathologies.md",
+    "Radiology/Week 2",
+    "Radiology/Week 1/Untitled",
     "Radiology/Week 1/Pneumonia.md",
     "Radiology/Week 1/Pleural Effusion.md",
-    "Radiology/Week 1/Factors for Adequate CXR.md",
-    "Radiology/Week 1/CXR Pathologies.md",
     "Radiology/Week 1",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -208,17 +216,10 @@
     "HemeOnc/WBC/Acute Leukemia.md",
     "HemeOnc/Platelet and Coagulation Disorders/Disseminated Intravascular Coagulation.md",
     "HemeOnc/WBC",
-    "HemeOnc/Platelet and Coagulation Disorders/Untitled.md",
-    "HemeOnc/Platelet and Coagulation Disorders/Hemophilia.md",
-    "HemeOnc/Platelet and Coagulation Disorders/Heparin-Induced Thrombocytopenia.md",
-    "HemeOnc/Platelet and Coagulation Disorders/Hemolytic Uremic Syndrome.md",
-    "HemeOnc/Platelet and Coagulation Disorders/Immune Thrombocytopenia.md",
     "HemeOnc/Platelet and Coagulation Disorders",
     "HemeOnc/RBC",
     "RheumImmuno/Vasculitis/Untitled",
     "RheumImmuno/Vasculitis",
-    "RheumImmuno/Myopathies and Pain Syndromes",
-    "RheumImmuno/Joints",
-    "RheumImmuno/Connective Tissue"
+    "RheumImmuno/Myopathies and Pain Syndromes"
   ]
 }
