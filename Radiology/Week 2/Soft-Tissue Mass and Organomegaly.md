@@ -3,4 +3,4 @@
 - Direct visualization of edges
 - Indirect evidence of mass
 	- Pathologic displacement of air-filled loops of bowel
-- 
+- Plain radiography + CT correlation
