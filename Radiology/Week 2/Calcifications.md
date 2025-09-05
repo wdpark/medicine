@@ -20,4 +20,4 @@
 		- Calcifications that form inside a hollow lumen
 		- Renal calculi and gallstones
 	- **Amorphous**
-		- 
+		- Calcifications inside solid organ or tumor
