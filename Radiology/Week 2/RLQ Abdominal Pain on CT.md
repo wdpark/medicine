@@ -154,3 +154,15 @@ Intussusception
 - => Multidetector CT has the highest diagnostic accuracy
 	- CT findings
 		- Complex soft-tissue mass with telescoping
+	- Helps with identifying lead point
+
+Cecal Volvulus
+- Type I: Axial torsion
+	- Rotated on long axis
+- Type II: Loop
+	- Distended cecum twists and inverts
+- Type III: Cecal bascule
+	- Anterior fold without any torsion
+- => Combination of distended ectopic cecum and the swirl of mesenteric vessels is seen in type I and II cecal volvulus
+	- In type II, the cecum usually occupies the LUQ
+	- In type III, the vessels swirls are not present
