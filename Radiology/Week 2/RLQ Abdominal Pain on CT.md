@@ -146,4 +146,11 @@ Endometriosis
 	- Usually in distal third of appendix or distended but non-opacified appendix when oral or rectal contrast material is used without evidence of inflammation
 
 Foreign Body Ingestion
-- 
+- Ileocecal region and rectosigmoid are the most common sites of intestinal perforation by a foreign body
+- Wooden foreign bodies mimic air
+
+Intussusception
+- Rare in adults, usually secondary to benign or malignant neoplasms (lipoma, leiomyoma, lymphoma, metastasis, etc.)
+- => Multidetector CT has the highest diagnostic accuracy
+	- CT findings
+		- Complex soft-tissue mass with telescoping
