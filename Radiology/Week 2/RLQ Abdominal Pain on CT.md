@@ -69,3 +69,26 @@
 	- Meckel
 		- Most common congenital anomaly
 		- Non-obliteration of the omphalomesenteric duct
+		- Complications
+			- Mucosal ulceration
+			- GI bleeding from ectopic gastric mucosa
+			- Intussusception
+			- Perforation
+			- Inflammation (Enterolith or foreign body)
+		- CT findings
+			- Blind-ending pouch containing fluid, air, or particulate material
+			- Mural thickening and hyperenhancement
+			- Mesenteric inflammation
+
+- Appendiceal Diverticulitis
+	- Usually pseudodiverticula with herniation of mucosa through muscularis
+	- Insidious onset
+	- Clinical findings
+		- Round outpouching beyond margin of appendix that can contain fluid, air, or enhancing soft tissue
+		- Inflammation
+		- Fat stranding
+		- Increased diameter, wall thickening, hyperenhancement
+
+---
+**Malignancies**
+- 
