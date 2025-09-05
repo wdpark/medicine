@@ -20,4 +20,13 @@
 	- Foreign body perforation
 	- Gas-producing infection (perforated diverticulitis)
 - Signs
-	- 
+	- Streaky, liner appearance outlining extraperitoneal structures
+		- Psoas muscle, kidneys, bladder, aorta, IVC
+	- Mottled, blotchy appearance in fixed position
+
+**Pneumatosis Intestinalis**
+- Causes
+	- Primary: Pneumatosis cystoides
+		- Left colon (cyst-like collections of air in submucosa and serosa)
+	- Secondary: Obstructive and necrotizing disease
+		- 
