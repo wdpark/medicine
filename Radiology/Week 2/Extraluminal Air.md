@@ -39,4 +39,11 @@
 - Signs
 	- Linear radiolucency paralleling the contour of air in adjacent bowel lumen
 	- Mottled appearance that resembles air mixed with fecal material
-	- 
+
+**Pneumobilia**
+- Air in biliary tree
+- Causes
+	- Incompetent Sphincter of Oddi
+	- Prior sphincterotomy
+	- Prior surgery of CBD
+	- Gallstone ileus
