@@ -141,4 +141,9 @@ Mesenteric Adenitis
 ---
 **Miscellaneous Conditions**
 Endometriosis
+- CT findings for appendiceal endometriosis
+	- Nonspecific focal mass
+	- Usually in distal third of appendix or distended but non-opacified appendix when oral or rectal contrast material is used without evidence of inflammation
+
+Foreign Body Ingestion
 - 
