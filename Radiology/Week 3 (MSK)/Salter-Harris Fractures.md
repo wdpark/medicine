@@ -17,3 +17,15 @@
 - Epiphyseal plate and metaphysis
 - Most common SH fracture
 - Good prognosis
+
+**Type III**
+- Epiphyseal plate and epiphysis
+- Intra-articular fracture
+	- Fracture enters joint space
+	- Fracture of articular cartilage
+- Long-term implications
+	- Secondary osteoarthritis
+	- Asymmetrical and premature fusion of the growth plate
+
+**Type IV**
+- Epiphyseal plate, epiphysis, and metaphsy
