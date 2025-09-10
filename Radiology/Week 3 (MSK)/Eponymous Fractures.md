@@ -19,3 +19,10 @@
 
 **Segond Fracture**
 - Avulsion fracture of anterolateral margin of tibial plateau
+- Caused by internal rotation and varus stress
+- Associated with ACL tears and meniscal injuries
+
+**Maisonneuve's Fracture**
+- Proximal fibular fracture
+- Associated with medial malleolus fracture
+- Disruption of the tibiofibular syndesmosis
