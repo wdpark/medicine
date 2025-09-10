@@ -18,4 +18,4 @@
 - Caused by punching a wall or person
 
 **Segond Fracture**
-- 
+- Avulsion fracture of anterolateral margin of tibial plateau
