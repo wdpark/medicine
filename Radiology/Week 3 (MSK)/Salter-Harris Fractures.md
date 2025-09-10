@@ -28,4 +28,13 @@
 	- Asymmetrical and premature fusion of the growth plate
 
 **Type IV**
-- Epiphyseal plate, epiphysis, and metaphsy
+- Epiphyseal plate, epiphysis, and metaphysis
+- Intra-articular fracture
+- Poor prognosis
+	- Secondary osteoarthritis
+	- Asymmetrical and premature fusion of the growth plate
+	- Leg length discrepancy
+	- Angular deformity
+
+**Type V**
+- 
