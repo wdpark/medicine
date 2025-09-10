@@ -37,4 +37,7 @@
 	- Angular deformity
 
 **Type V**
-- 
+- Crush/compression injury of epiphyseal plate
+- Associated with vascular injury
+- Results in growth impairment
+- Rare
