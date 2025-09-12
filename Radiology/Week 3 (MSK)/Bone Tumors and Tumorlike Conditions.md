@@ -73,7 +73,7 @@
 	- Benign
 		- Chondroblastoma
 		- Giant cell tumor
-		- Osteomyelitis
+		- Osteomyelitis (<18 mo)
 		- Paget disease
 		- Intraosseous ganglion/geode
 		- Osteochondral injury
@@ -86,4 +86,5 @@
 			- Simple bone cyst
 			- Aneurysmal bone cyst
 			- Enchondroma
-			- 
+			- Fibrous dysplasia
+			- Osteomyelitis (>18 mo adults)
