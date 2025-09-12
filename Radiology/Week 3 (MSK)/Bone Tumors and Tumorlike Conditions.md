@@ -8,4 +8,26 @@
 ---
 **Patient Age**
 - <20
-	- Fibrous
+	- Benign
+		- Fibrous cortical defect
+		- Non-ossifying fibroma
+		- Simple bone cyst
+		- Aneurysmal bone cyst
+		- Chondroblastoma
+		- Langerhans cell histiocytosis
+		- Osteofibrous dysplasia
+	- Malignant
+		- Leukemia
+		- Ewing sarcoma
+		- Osteosarcoma
+		- Neuroblastoma
+		- Retinoblastoma
+		- Rhabdomyosarcoma
+		- Hodgkin lymphoma
+- 20-40
+	- Giant cell tumor
+	- Osteoblastoma
+	- Osteoid osteoma
+	- Chondromyxoid fibroma
+	- Fibrous dysplasia
+	- Enchondroma
