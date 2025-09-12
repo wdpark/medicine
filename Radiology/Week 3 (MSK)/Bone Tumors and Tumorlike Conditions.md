@@ -28,6 +28,7 @@
 		- Retinoblastoma
 		- Rhabdomyosarcoma
 		- Hodgkin lymphoma
+
 - 20-40
 	- Benign
 		- Osteoid osteoma
@@ -37,4 +38,17 @@
 		- Giant cell tumor
 		- Osteoblastoma
 	- Malignant
-		- 
+		- Osteosarcoma
+		- Adamantinoma
+
+- >40
+	- Benign
+		- Fibrous dysplasia
+		- Paget disease
+		- Non-Hodgkin lymphoma
+		- Chondrosarcoma
+		- Malignant fibrous histiocytoma
+		- Osteosarcoma 2/2 Paget and radiation
+	- Malignant
+		- Metastatic disease (most common)
+		- Myeloma
