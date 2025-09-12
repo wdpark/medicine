@@ -9,6 +9,10 @@
 **Patient Age**
 - <20
 	- Benign
+		- Osteoid osteoma
+		- Chondromyxoid fibroma
+		- Fibrous dysplasia
+		- Enchondroma
 		- Fibrous cortical defect
 		- Non-ossifying fibroma
 		- Simple bone cyst
@@ -25,9 +29,12 @@
 		- Rhabdomyosarcoma
 		- Hodgkin lymphoma
 - 20-40
-	- Giant cell tumor
-	- Osteoblastoma
-	- Osteoid osteoma
-	- Chondromyxoid fibroma
-	- Fibrous dysplasia
-	- Enchondroma
+	- Benign
+		- Osteoid osteoma
+		- Chondromyxoid fibroma
+		- Fibrous dysplasia
+		- Enchondroma
+		- Giant cell tumor
+		- Osteoblastoma
+	- Malignant
+		- 
