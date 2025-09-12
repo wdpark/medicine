@@ -159,3 +159,14 @@
 	- Posterior spine
 
 ---
+**Margin**
+- Geographic = focal discrete lesion
+- 1a: well-defined border with sclerotic rim
+- 1b: well-defined border without sclerotic rim
+- 1c: ill-defined border, focal lytic lesion
+
+---
+**Periosteal Reaction**
+- Codman Triangle = elevation of periosteum and bone forming a triangle
+	- Associated with osteosarcoma, anything that lifts periosteum (even benign entities like infection and subperiosteal h)
+	- 
