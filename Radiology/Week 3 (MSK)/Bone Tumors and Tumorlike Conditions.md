@@ -52,3 +52,21 @@
 	- Malignant
 		- Metastatic disease (most common)
 		- Myeloma
+
+- Examples:
+	- Simple bone cysts and chondroblastomas in skeletally immature people
+	- Giant cell tumors in skeletally mature people
+
+	- Ewing sarcoma in 10-20 yo
+	- Conventional osteosarcoma has two peaks: teenagers and >50 2/2 Paget or radiation
+
+	- Malignant bone lesion in child
+		- Primary bone sarcoma
+	- Malignant bone lesion in adult
+		- Metastatic carcinoma
+		- Myeloma
+		- Metastatic non-Hodgkin lymphoma
+
+---
+**Location**
+- 
