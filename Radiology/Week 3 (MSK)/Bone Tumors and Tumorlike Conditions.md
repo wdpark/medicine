@@ -168,5 +168,14 @@
 ---
 **Periosteal Reaction**
 - Codman Triangle = elevation of periosteum and bone forming a triangle
-	- Associated with osteosarcoma, anything that lifts periosteum (even benign entities like infection and subperiosteal h)
-	- 
+	- Associated with osteosarcoma, anything that lifts periosteum (even benign entities like infection and subperiosteal hematoma)
+	- May be due to pathologic fracture vs. tumor itself, like a simple bone cyst
+
+---
+**Opacity and Mineralization**
+- Matrix = osteoid, chondral, fibrous, or adipose (ALL RADIOLUCENT)
+- Mineralization = calcification (RADIOPAQUE)
+
+---
+**Size and Number**
+- 
