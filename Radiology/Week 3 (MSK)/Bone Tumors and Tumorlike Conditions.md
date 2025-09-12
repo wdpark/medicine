@@ -107,9 +107,11 @@
 			- Myeloma (over age 40)
 			- Lymphoma
 			- Malignant vascular tumors
-		- Cortical
+	- Cortical
+		- Malignant
 			- Metastatic disease (especially lung)
-		- Juxtacortical
+	- Juxtacortical
+		- Malignant
 			- Periosteal osteosarcoma
 			- Parosteal osteosarcoma
 			- Juxtacortical chondrosarcoma
