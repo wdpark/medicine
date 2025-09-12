@@ -190,3 +190,8 @@
 - Endosteal scalloping = when expanding medullary processes cause erosion of the inner surface of the cortex
 - Buttress periosteal reaction = beak-like solid periosteal reaction that forms buttresses
 - Saucerization = Any process that starts on the outer surface of the cortex
+
+---
+**Soft-Tissue Component**
+- Bone + soft-tissue component = malignant process
+- Commonly osteosarcoma, Ewing sarcoma, and lymphoma
