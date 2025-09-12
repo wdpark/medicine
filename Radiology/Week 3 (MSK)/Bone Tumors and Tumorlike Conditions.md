@@ -112,3 +112,7 @@
 		- Juxtacortical
 			- Periosteal osteosarcoma
 			- Parosteal osteosarcoma
+			- Juxtacortical chondrosarcoma
+
+- Diaphyseal
+	- 
