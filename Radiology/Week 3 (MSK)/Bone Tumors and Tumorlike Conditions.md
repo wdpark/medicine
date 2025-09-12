@@ -178,4 +178,10 @@
 
 ---
 **Size and Number**
+- Osteoid osteoma < 1.5 cm
+- Osteoblastoma > 1.5 cm
+- Fibrous cortical defect < 3 cm
+- Non-ossifying fibroma > 3 cm
+- Enchondroma 1-2 cm
+- Low-grade chondrosarcoma greater if 4-5 cm
 - 
