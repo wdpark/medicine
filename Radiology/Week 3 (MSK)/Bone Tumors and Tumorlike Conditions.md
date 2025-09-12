@@ -69,4 +69,13 @@
 
 ---
 **Location**
-- 
+- Epiphyseal
+	- Benign
+		- Chondroblastoma
+		- Giant cell tumor
+		- Osteomyelitis
+		- Paget disease
+		- Intraosseous ganglion/geode
+		- Osteochondral injury
+	- Malignant
+		- Clear cell chondrosarcoma
