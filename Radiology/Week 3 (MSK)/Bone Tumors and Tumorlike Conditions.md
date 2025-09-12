@@ -115,4 +115,6 @@
 			- Juxtacortical chondrosarcoma
 
 - Diaphyseal
-	- 
+	- Medullary
+		- Benign
+			- Fiob
