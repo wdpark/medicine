@@ -53,7 +53,7 @@
 		- Metastatic disease (most common)
 		- Myeloma
 
-- Examples:
+- Examples
 	- Simple bone cysts and chondroblastomas in skeletally immature people
 	- Giant cell tumors in skeletally mature people
 
@@ -117,4 +117,26 @@
 - Diaphyseal
 	- Medullary
 		- Benign
-			- Fiob
+			- Fibrous dysplasia
+			- Localized Langerhans cell histiocytosis
+	- Cortical
+		- Benign
+			- Ossifying fibroma
+
+	- Medullary
+		- Malignant
+			- Ewing sarcoma
+			- Lymphoma
+			- Myeloma
+			- Metastatic disease
+			- Malignant vascular tumors
+		- Cortical
+			- Adamantinoma
+			- Metastatic disease (especially lung)
+
+- Examples
+	- Osteosarcoma -> metaphyseal region
+	- Ewing sarcoma -> red marrow distribution
+
+	- Simple bone cyst -> metaphyseal medullary
+	- Non-ossifying fibroma -> metaphyseal cortical
