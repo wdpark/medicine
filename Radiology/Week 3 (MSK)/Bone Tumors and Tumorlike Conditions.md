@@ -140,3 +140,22 @@
 
 	- Simple bone cyst -> metaphyseal medullary
 	- Non-ossifying fibroma -> metaphyseal cortical
+
+
+**Specific Sites of Selected Tumors**
+- Adamantinoma and osteofibrous dysplasia
+	- Anterior cortex of tibia
+- Epidermal inclusion cyst and glomus tumor
+	- Terminal tuft of phalanx
+- Periosteal desmoid and parosteal osteosarcoma
+	- Posterior cortex of distal femur
+- Chordoma
+	- Clivus, vertebral bodies, sacrum
+- Hemangioma
+	- Vertebral bodies
+- Simple bone cyst and intraosseous lipoma
+	- Calcaneus
+- Osteoblastoma and aneurysmal bone cyst
+	- Posterior spine
+
+---
