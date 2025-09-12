@@ -184,4 +184,9 @@
 - Non-ossifying fibroma > 3 cm
 - Enchondroma 1-2 cm
 - Low-grade chondrosarcoma greater if 4-5 cm
-- 
+
+---
+**Cortical Involvement**
+- Endosteal scalloping = when expanding medullary processes cause erosion of the inner surface of the cortex
+- Buttress periosteal reaction = beak-like solid periosteal reaction that forms buttresses
+- Saucerization = Any process that starts on the outer surface of the cortex
