@@ -88,3 +88,27 @@
 			- Enchondroma
 			- Fibrous dysplasia
 			- Osteomyelitis (>18 mo adults)
+			- Localized Langerhans cell histiocytosis
+			- Chondromyxoid fibroma
+	- Cortical
+		- Benign
+			- Fibrous cortical defect
+			- Non-ossifying fibroma
+			- Osteoid osteoma
+	- Juxtacortical
+		- Benign
+			- Juxtacortical chondroma
+
+	- Medullary
+		- Malignant
+			- Conventional osteosarcoma
+			- Chondrosarcoma
+			- Metastatic disease
+			- Myeloma (over age 40)
+			- Lymphoma
+			- Malignant vascular tumors
+		- Cortical
+			- Metastatic disease (especially lung)
+		- Juxtacortical
+			- Periosteal osteosarcoma
+			- Parosteal osteosarcoma
