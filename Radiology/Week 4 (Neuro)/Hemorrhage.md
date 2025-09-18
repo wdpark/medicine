@@ -70,4 +70,4 @@
 	- Causes
 		- Breakthrough bleeding from contusion or subarachnoid hemorrhage
 	- Signs
-		- 
+		- Can cause obstructing hydrocephalus
