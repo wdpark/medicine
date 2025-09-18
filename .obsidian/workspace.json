@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0c92c8299ce36718",
@@ -178,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fdf4495593bde58",
+  "active": "e73b7044e3f4dcab",
   "lastOpenFiles": [
-    "Images",
-    "Images/Pasted image 20250917220625.png",
+    "zzzImages/Pasted image 20250917220744.png",
+    "zzzImages",
+    "zzzImages/Pasted image 20250917220625.png",
     "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
     "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
     "Radiology/Week 4 (Neuro)",
@@ -219,7 +221,6 @@
     "HemeOnc/WBC/Hodgkin Lymphoma.md",
     "HemeOnc/WBC",
     "HemeOnc/Platelet and Coagulation Disorders",
-    "HemeOnc/RBC",
-    "RheumImmuno/Vasculitis/Untitled"
+    "HemeOnc/RBC"
   ]
 }
