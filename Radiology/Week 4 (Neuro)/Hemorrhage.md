@@ -6,7 +6,7 @@
 		- 95% associated skull fracture
 	- Signs
 		- High-density
-		- Biconvex lens mass
+		- Biconvex lens shape
 		- Does NOT cross sutures
 		- CAN cross tentorium
 
@@ -19,4 +19,44 @@
 	- Signs
 		- High-iso-low density, depends on acuity
 		- Concave, crescent shape
-		- 
+		- CAN cross sutures
+		- Does NOT cross midline
+
+- Subarachnoid Hemorrhage
+	- Located between arachnoid and pia mater
+	- Causes
+		- AV malformation
+		- Aneurysm rupture
+		- Trauma
+	- Signs
+		- Hyperdense
+		- Within the sulci and basal cisterns
+		- Intraventricular blood
+
+---
+**Intra-axial**
+- Intraparenchymal Hemorrhage
+	- Within brain parenchyma
+	- Causes
+		- Hypertensive/Hemorrhagic Stroke
+		- Trauma
+		- AV Malformations
+		- Aneurysm rupture
+		- Intracranial neoplasm
+		- Cerebral amyloid angiopathy
+		- Coagulopathy
+	- Signs
+		- Well-demarcated area of high attenuation
+		- Surrounded by hypoattenuation (edema)
+		- Associated mass effect
+			- Ventricle compression
+			- Sulci effacement
+			- Midline shift
+			- Subtentorial herniation
+		- Can have intraventricular blood
+
+	- Trauma (Closed head injury)
+		- Coup = point of impact
+			- Shearing of small intracerebral vessels
+		- Countercoup = rebound point of impact
+			- Acceleration/deceleration injuries
