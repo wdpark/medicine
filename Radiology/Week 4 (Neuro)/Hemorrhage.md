@@ -54,9 +54,20 @@
 			- Midline shift
 			- Subtentorial herniation
 		- Can have intraventricular blood
-
 	- Trauma (Closed head injury)
 		- Coup = point of impact
 			- Shearing of small intracerebral vessels
 		- Countercoup = rebound point of impact
 			- Acceleration/deceleration injuries
+	- Hypertensive Hemorrhagic Stroke
+		- 15% of strokes
+		- Location
+			- Basal ganglia, thalamus, pons, cerebellum
+
+- Intraventricular Hemorrhage
+	- Within ventricular system
+		- Most common location is occipital horns of lateral ventricles
+	- Causes
+		- Breakthrough bleeding from contusion or subarachnoid hemorrhage
+	- Signs
+		- 
