@@ -1,0 +1,22 @@
+**Extra-axial**
+- Epidural Hematoma
+	- Located between inner table of skull and dura mater
+	- Causes
+		- Blunt trauma injury to middle meningeal artery/vein
+		- 95% associated skull fracture
+	- Signs
+		- High-density
+		- Biconvex lens mass
+		- Does NOT cross sutures
+		- CAN cross tentorium
+
+- Subdural Hematoma
+	- Located between dura mater and arachnoid space
+	- Causes
+		- Damage to bridging veins that cross from cortex to the venous sinuses of brain
+		- Deceleration injuries (MVA)
+		- Falls (older patients)
+	- Signs
+		- High-iso-low density, depends on acuity
+		- Concave, crescent shape
+		- 
