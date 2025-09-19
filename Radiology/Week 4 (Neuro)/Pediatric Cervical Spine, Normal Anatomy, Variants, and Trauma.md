@@ -14,7 +14,15 @@
 
 **Embryologic Development and Normal Anatomy**
 - C1/atlas
+	- 3 ossification centers, 2 anterior and 1 posterior
 	- Anterior arch fuses with neural arches by 7 yo, which could be mistaken for a fracture
 	- Posterior neural arch fuses by 3 yo
 - C2/axis
-	- 
+	- 4 ossification centers, 2 posterior, 1 for body, and 1 for odontoid process
+	- Secondary ossification center at apex of odontoid fuses by 12 yo
+	- Body of C2 and odontoid fuse by 3-6 yo
+	- Neural arches fuse posteriorly by 2-3 yo
+- C3-C7
+	- 3 ossification centers, 1 for body and 2 for neural arches
+	- Neural arches fuse posteriorly by 2-3 yo
+	- Body fuses with neural arches between 3-6 yo
