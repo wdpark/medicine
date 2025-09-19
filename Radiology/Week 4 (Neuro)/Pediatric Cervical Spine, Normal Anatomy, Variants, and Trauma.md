@@ -48,3 +48,7 @@
 - Most common symptoms are pain and torticollis with radiation to shoulders
 - Initial radiographic screening should be lateral, AP, and odontoid views of c-spine
 - 21-26% false-negative rate for single cross-table lateral radiograph, so conventional radiograph or CT is necessary
+
+**Normal Radiographic Parameters and Variants of the Pediatric Cervical Spine**
+- Atlantodens Interval
+	- Distance between anterior aspect of dens and posterior aspect of anterior ring of atlas
