@@ -45,4 +45,6 @@
 **Imaging Evaluation**
 - Head/facial trauma, LOC, high-speed MVA, or birth trauma are indications for c-spine evaluation
 - Also hyper/hypotonia or abnormal neuro exam
-- Most common symptoms are pain and torticollis with radiation to
+- Most common symptoms are pain and torticollis with radiation to shoulders
+- Initial radiographic screening should be lateral, AP, and odontoid views of c-spine
+- 21-26% false-negative rate for single cross-table lateral radiograph, so conventional radiograph or CT is necessary
