@@ -26,4 +26,23 @@
 	- 3 ossification centers, 1 for body and 2 for neural arches
 	- Neural arches fuse posteriorly by 2-3 yo
 	- Body fuses with neural arches between 3-6 yo
-	- Secondary ossifi
+	- Secondary ossification centers at tips of transverse and spinous processes may mimic fractures until 3rd decade of life
+	- Anterior longitudinal ligament - anterior atlantooccipital ligament - apical ligament - tectorial membrane - posterior atlantooccipital ligament
+	- Alar ligaments limit rotation to contralateral side
+		- Therefore, if left alar ligament is damager, there is higher ROM to contralateral right side
+
+**Pediatric Versus Adult Cervical Spine**
+- Injury in children most common from occiput to C3
+- Fulcrum of motion in children is C2-C3, but C5-C6 in adults
+- Risk factors
+	- Hypermobility due to lax ligaments
+	- Shallow and angled facet joints
+	- Underdeveloped spinous processes
+	- Physiologic anterior wedging of vertebral bodies
+	- Incomplete ossification of the odontoid process
+	- Large head, weak neck muscles
+
+**Imaging Evaluation**
+- Head/facial trauma, LOC, high-speed MVA, or birth trauma are indications for c-spine evaluation
+- Also hyper/hypotonia or abnormal neuro exam
+- Most common symptoms are pain and torticollis with radiation to
