@@ -64,4 +64,10 @@
 		- If line does not overlap the anterior aspect of the spinous process of C2 by 2 mm or more, a true injury is present
 		- Abnormal posterior cervical line indicates presence of bilateral pars interarticularis of C2
 			- AKA hangman fracture
-- Absence of Lordos
+- Absence of Lordosis
+	- Normal up to 16 yo when neck is neutral
+	- Normal posterior intraspinous distance is a good indicator of ligamentous integrity
+		- Should not be more than 1.5 times greater than the intraspinous distance above or below
+		- In children, flexion increases the distance between C1-C2, which is a normal finding
+- Anterior wedging normal
+	- Usually at C3 lvel
