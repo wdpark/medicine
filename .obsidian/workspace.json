@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
+                "file": "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma"
+              "title": "Normal Brain Anatomy"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0c92c8299ce36718",
@@ -181,8 +180,8 @@
   },
   "active": "e73b7044e3f4dcab",
   "lastOpenFiles": [
-    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
     "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
+    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
     "Radiology/Week 4 (Neuro)/Hemorrhage.md",
     "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
     "zzzImages/Pasted image 20250917222827.png",

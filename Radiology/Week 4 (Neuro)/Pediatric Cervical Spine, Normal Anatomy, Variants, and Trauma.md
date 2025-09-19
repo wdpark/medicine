@@ -121,4 +121,22 @@
 
 **Traumatic Spondylolisthesis of C2**
 - AKA Hangman fracture
-- 
+- Hyperextension injury of C2
+
+**Subaxial Injuries C3-C7**
+- Commonly in older children 2/2 sports or MVA
+
+**Posterior Ligamentous Injuries**
+- MRI best
+
+**Wedge Compression Fractures**
+- Occurs with concomitant flexion and axial loading
+- Stable and heal easily
+
+**Facet Dislocations**
+- Associated with spinal cord syndromes
+- Imaging shows translational displacement of adjacent vertebrae by 50% and dislocation of facet joints
+
+---
+**Late Sequelae of C-spine Injuries**
+- Complications include kyphosis, scoliosis, and syrinx formation
