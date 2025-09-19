@@ -87,3 +87,8 @@
 - Gap of >5 mm between occipital condyles and condylar surface of atlas suggests craniocervical injury
 - Wachenheim clivus line: posterior aspect of clivus toward the odontoid process
 	- Abnormal when line does not intersect or is tangential to odontoid process
+- Power ratio is distance from basion (tip of clivus) to the posterior aspect of the spinolaminar line of the atlas divided by the distance from the anterior tubercle of atlas to lip of foramen magnum
+	- Should be <1 in healthy individuals
+
+**Fractures of the Atlas**
+- 
