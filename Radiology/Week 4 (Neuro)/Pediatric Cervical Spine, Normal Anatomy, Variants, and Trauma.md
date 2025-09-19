@@ -100,4 +100,6 @@
 
 **Atlantoaxial Injuries**
 - Rotatory Subluxation
+	- Cause of torticollis
+	- Anterior facet of C1 becomes locked on facet of C2, causing impaired rotation
 	- 
