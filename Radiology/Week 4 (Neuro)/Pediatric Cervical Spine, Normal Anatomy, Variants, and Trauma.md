@@ -93,3 +93,11 @@
 **Fractures of the Atlas**
 - AKA Jefferson fracture
 - Caused by axial loading injury
+- Stable if transverse ligament is intact
+	- If disrupted, then increased distance between lateral masses and odontoid process
+	- >6 mm between lateral mass of C1 and odontoid = ligamentous disruption
+- Reduced AP diameter of cervical spinal canal can also suggest spinal cord injury
+
+**Atlantoaxial Injuries**
+- Rotatory Subluxation
+	- 
