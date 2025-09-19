@@ -12,6 +12,7 @@
 - Children >8 yo: falls and sports-related injuries
 - Less common mechanisms include birth trauma (breech) and child abuse
 
+
 **Embryologic Development and Normal Anatomy**
 - C1/atlas
 	- 3 ossification centers, 2 anterior and 1 posterior
@@ -31,6 +32,7 @@
 	- Alar ligaments limit rotation to contralateral side
 		- Therefore, if left alar ligament is damager, there is higher ROM to contralateral right side
 
+
 **Pediatric Versus Adult Cervical Spine**
 - Injury in children most common from occiput to C3
 - Fulcrum of motion in children is C2-C3, but C5-C6 in adults
@@ -41,6 +43,7 @@
 	- Physiologic anterior wedging of vertebral bodies
 	- Incomplete ossification of the odontoid process
 	- Large head, weak neck muscles
+
 
 **Imaging Evaluation**
 - Head/facial trauma, LOC, high-speed MVA, or birth trauma are indications for c-spine evaluation
@@ -56,3 +59,9 @@
 	- Normal also indicates the transverse atlantal ligament and alar ligament are intact
 - Pseudospread of the Atlas on the Axis (Pseudo-Jefferson fracture)
 	- Up to 6 mm lateral displacement of lateral masses relative to dens is common up to 4 yo and can be seen up to 7 yo
+- Normal C1-C3 displacement
+	- In both flexion and extension, anterior edges of spinous processes should line up within 1 mm
+		- If line does not overlap the anterior aspect of the spinous process of C2 by 2 mm or more, a true injury is present
+		- Abnormal posterior cervical line indicates presence of bilateral pars interarticularis of C2
+			- AKA hangman fracture
+- Absence of Lordos
