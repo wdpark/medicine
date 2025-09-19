@@ -70,4 +70,13 @@
 		- Should not be more than 1.5 times greater than the intraspinous distance above or below
 		- In children, flexion increases the distance between C1-C2, which is a normal finding
 - Anterior wedging normal
-	- Usually at C3 lvel
+	- Usually at C3 level
+- Prevertebral Soft Tissue
+	- In adults, often due to edema or hemorrhage
+	- Prevertebral space of <6 mm at C3 is normal in children
+		- If suspicious, repeat lateral in mild extension and in inspiration
+
+---
+**Spinal Cord Injury without Radiographic Abnormality**
+- Transient ligamentous deformation can still damage spinal cord, resulting in normal imaging
+- 
