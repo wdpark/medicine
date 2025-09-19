@@ -55,4 +55,4 @@
 	- Normal is <5 mm for children, <3 mm for adults
 	- Normal also indicates the transverse atlantal ligament and alar ligament are intact
 - Pseudospread of the Atlas on the Axis (Pseudo-Jefferson fracture)
-	- 
+	- Up to 6 mm lateral displacement of lateral masses relative to dens is common up to 4 yo and can be seen up to 7 yo
