@@ -102,4 +102,10 @@
 - Rotatory Subluxation
 	- Cause of torticollis
 	- Anterior facet of C1 becomes locked on facet of C2, causing impaired rotation
-	- 
+	- Normal ADI
+	- Types
+		- I: most common, no displacement of C1
+		- II: 3-5 mm anterior C1 displacement, associated with abnormal transverse ligament
+		- III: >5 mm anterior displacement of C1 on C2, associated with deficiency of transverse and alar ligaments
+		- IV: C1 displacement posteriorly
+		- 
