@@ -52,3 +52,7 @@
 **Normal Radiographic Parameters and Variants of the Pediatric Cervical Spine**
 - Atlantodens Interval
 	- Distance between anterior aspect of dens and posterior aspect of anterior ring of atlas
+	- Normal is <5 mm for children, <3 mm for adults
+	- Normal also indicates the transverse atlantal ligament and alar ligament are intact
+- Pseudospread of the Atlas on the Axis (Pseudo-Jefferson fracture)
+	- 
