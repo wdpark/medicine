@@ -79,4 +79,9 @@
 ---
 **Spinal Cord Injury without Radiographic Abnormality**
 - Transient ligamentous deformation can still damage spinal cord, resulting in normal imaging
+- Possible explanations could be 
+	- inelastic spinal cord vs ligament
+	- ischemic vessel injury or hypoperfusion to spinal cord
+
+**Occiput-C1 Injury**
 - 
