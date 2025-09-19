@@ -84,4 +84,6 @@
 	- ischemic vessel injury or hypoperfusion to spinal cord
 
 **Occiput-C1 Injury**
-- 
+- Gap of >5 mm between occipital condyles and condylar surface of atlas suggests craniocervical injury
+- Wachenheim clivus line: posterior aspect of clivus toward the odontoid process
+	- Abnormal when line does not intersect or is tangential to odontoid process
