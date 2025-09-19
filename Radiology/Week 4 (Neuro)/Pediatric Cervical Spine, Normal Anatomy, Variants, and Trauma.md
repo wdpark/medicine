@@ -91,4 +91,5 @@
 	- Should be <1 in healthy individuals
 
 **Fractures of the Atlas**
-- 
+- AKA Jefferson fracture
+- Caused by axial loading injury
