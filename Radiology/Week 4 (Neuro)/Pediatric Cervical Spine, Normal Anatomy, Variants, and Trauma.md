@@ -26,3 +26,4 @@
 	- 3 ossification centers, 1 for body and 2 for neural arches
 	- Neural arches fuse posteriorly by 2-3 yo
 	- Body fuses with neural arches between 3-6 yo
+	- Secondary ossifi
