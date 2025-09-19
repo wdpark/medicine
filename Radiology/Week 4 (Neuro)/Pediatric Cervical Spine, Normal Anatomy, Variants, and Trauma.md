@@ -115,4 +115,10 @@
 	- Also necrotizing retropharyngeal infection and adenoidectomy
 
 **Odontoid Fractures**
+- In children <7 yo, most common cause is through cartilaginous synchondrosis
+- Located below level of vascular supply of lower dens, so usually heals without complications in children
+	- In adults, nonunion and pseudoarthrosis can happen
+
+**Traumatic Spondylolisthesis of C2**
+- AKA Hangman fracture
 - 
