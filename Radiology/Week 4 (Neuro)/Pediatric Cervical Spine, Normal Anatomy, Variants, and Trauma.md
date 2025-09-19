@@ -16,3 +16,5 @@
 - C1/atlas
 	- Anterior arch fuses with neural arches by 7 yo, which could be mistaken for a fracture
 	- Posterior neural arch fuses by 3 yo
+- C2/axis
+	- 
