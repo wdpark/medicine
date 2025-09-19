@@ -108,4 +108,11 @@
 		- II: 3-5 mm anterior C1 displacement, associated with abnormal transverse ligament
 		- III: >5 mm anterior displacement of C1 on C2, associated with deficiency of transverse and alar ligaments
 		- IV: C1 displacement posteriorly
-		- 
+
+**Ligamentous Disruption**
+- Displacement of C1 and dens >5 mm suggests ligamentous injury
+- Transverse ligament injury rare in healthy children, but chronic atlantoaxial instability can be seen in rheumatoid diseases, bone dysplasia, Klippel-Feil syndrome, and os odontoideum
+	- Also necrotizing retropharyngeal infection and adenoidectomy
+
+**Odontoid Fractures**
+- 
