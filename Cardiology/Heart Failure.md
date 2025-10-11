@@ -23,3 +23,7 @@ Bonus Treatments:
 - Hydralazine/Isosorbide dinitrate
 - Ivabridine (2a), don't give in atrial-dependant patients
 - Vericiguat (2b)
+
+
+Advanced HF:
+- LVAD vs. Transplant
