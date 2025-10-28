@@ -44,3 +44,20 @@
 **Other**
 - Radiculopathy
 - Anxiety
+
+
+---
+**Pericardial Effusion**
+- Malignant
+- Inflammatory
+	- Autoimmune
+	- Rheumatic fever
+- Infection
+	- TB
+- Cardiac
+	- Pericarditis
+	- Post-MI
+	- Iatrogenic
+- Metabolic
+- Medications
+- Idiopathic
