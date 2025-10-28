@@ -58,6 +58,27 @@
 	- Pericarditis
 	- Post-MI
 	- Iatrogenic
+	- Trauma
+	- Type A aortic dissection
 - Metabolic
+	- Uremia
+	- Hypothyroidism
 - Medications
+	- Drug-induced SLE
+	- Chemo/immunotherapy
+	- Hypersensitivity
 - Idiopathic
+	- Most common, presumed viral
+
+
+---
+- Look for pulsus paradoxus
+	- BP drops during inspiration bc increased preload increase expands RV, causing LV collapse leading to diminished BP
+	- Check with manual
+
+- Look for cardiomegaly on CXR
+- Look for pericardial effusion on ultrasound
+	- Volume not as important as rate of accumulation
+
+- Think about acute pericarditis criteria
+	- 
