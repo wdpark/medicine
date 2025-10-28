@@ -81,4 +81,10 @@
 	- Volume not as important as rate of accumulation
 
 - Think about acute pericarditis criteria
-	- 
+
+
+---
+Treatment:
+- High dose NSAIDs (Ibuprofen, aspirin) for 1-2 weeks until chest pain resolved and CRP normalized, then taper
+- Colchicine for 3 months until resolved, then taper
+- + GI ppx
