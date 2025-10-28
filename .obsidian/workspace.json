@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Brain Tumors"
             }
+          },
+          {
+            "id": "fb0b88f0f4281993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approaches/Chest Pain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chest Pain"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73b7044e3f4dcab",
+  "active": "fb0b88f0f4281993",
   "lastOpenFiles": [
+    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
+    "Approaches/Chest Pain.md",
+    "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
     "Nephrology/11. Kidney in Pregnancy",
     "Nephrology/10. Kidney Stones",
@@ -189,10 +207,7 @@
     "Nephrology/6. Glomerular Diseases",
     "Nephrology/5. Chronic Tubulointerstitial Nephritis",
     "Nephrology/4. Hypertension",
-    "Nephrology/3. Acid-Base Disorders",
-    "Nephrology/2. Fluids and Electrolytes",
     "Nephrology/Sodium Management.md",
-    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
     "Radiology/Week 4 (Neuro)/Hemorrhage.md",
     "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
     "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
