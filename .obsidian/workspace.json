@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb0b88f0f4281993",
+            "id": "e73b7044e3f4dcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Chest Pain"
             }
+          },
+          {
+            "id": "191fed1408b83b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acute Abdominal Pain"
+            }
+          },
+          {
+            "id": "6cb8901a3f893dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acute Abdominal Pain"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,50 +207,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb0b88f0f4281993",
+  "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
-    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
+    "Ambulatory (AAFP)/Alcohol Use Disorder.md",
+    "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+    "Untitled",
     "Approaches/Chest Pain.md",
-    "Approaches",
-    "Nephrology/12. Chronic Kidney Disease",
-    "Nephrology/11. Kidney in Pregnancy",
-    "Nephrology/10. Kidney Stones",
-    "Nephrology/9. Acute Kidney Injury",
-    "Nephrology/8. Genetic Disorders and Kidney Disease",
-    "Nephrology/7. Kidney Manifestations of Deposition Diseases",
-    "Nephrology/6. Glomerular Diseases",
-    "Nephrology/5. Chronic Tubulointerstitial Nephritis",
-    "Nephrology/4. Hypertension",
-    "Nephrology/Sodium Management.md",
-    "Radiology/Week 4 (Neuro)/Hemorrhage.md",
-    "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
-    "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
-    "zzzImages/Pasted image 20250917222827.png",
-    "zzzImages/Pasted image 20250917220744.png",
+    "Ambulatory (AAFP)",
+    "Radiology/Week 1 (Chest)/CXR Pathologies.md",
     "zzzImages/Pasted image 20250917220625.png",
-    "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
     "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
+    "zzzImages/Pasted image 20250917220744.png",
+    "zzzImages/Pasted image 20250917222827.png",
+    "zzzImages",
+    "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
+    "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
+    "Radiology/Week 4 (Neuro)/Hemorrhage.md",
+    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
+    "Radiology/Week 4 (Neuro)",
+    "Approaches",
     "Radiology/Week 3 (MSK)/Salter-Harris Fractures.md",
     "Radiology/Week 3 (MSK)/Fractures.md",
-    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md",
+    "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
+    "Radiology/Week 1/Factors for Adequate CXR.md",
+    "Radiology/Week 3 (MSK)",
+    "Radiology/Week 2 (Abdomen)/Soft-Tissue Mass and Organomegaly.md",
     "Radiology/Week 2 (Abdomen)/RLQ Abdominal Pain on CT.md",
     "Radiology/Week 2 (Abdomen)/Gas Pattern.md",
-    "Radiology/Week 2 (Abdomen)/Soft-Tissue Mass and Organomegaly.md",
-    "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
+    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md",
     "Radiology/Week 2 (Abdomen)/Calcifications.md",
-    "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
+    "Radiology/Week 2 (Abdomen)",
     "Radiology/Week 1 (Chest)/Pneumothorax.md",
-    "Radiology/Week 1 (Chest)/CXR Pathologies.md",
     "Radiology/Week 1 (Chest)/Pneumonia.md",
+    "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
     "Radiology/Week 1 (Chest)/Pleural Effusion.md",
+    "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
+    "Radiology/Week 1 (Chest)",
+    "Radiology/Week 1/Mediastinum Abnormalities.md",
+    "Radiology/Week 1/Pneumothorax.md",
+    "Radiology/Week 1/Pneumonia.md",
+    "Radiology/Week 1",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Radiology/Basic Densities in Conventional Radiography.md",
     "Radiology/Pasted image 20250826005411.png",
     "Pasted image 20250826005358.png",
-    "Radiology/CXR.md",
-    "Infectious Diseases/HIV.md",
-    "HemeOnc/WBC/Myeloproliferative Neoplasms.md",
-    "HemeOnc/WBC/Non-Hodgkin Lymphomas.md"
+    "Infectious Diseases/Pharynx and Respiratory Tract"
   ]
 }
