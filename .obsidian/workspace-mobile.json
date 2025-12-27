@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/Arrhythmias/Atrial Fibrillation.md",
+                "file": "Ambulatory (AAFP)/Acute Abdominal Pain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atrial Fibrillation"
+              "title": "Acute Abdominal Pain"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Cardiology/Arrhythmias/Atrial Fibrillation.md",
     "Approaches/Chest Pain.md",
     "Approaches",
     "Ambulatory (AAFP)/Acute Abdominal Pain.md",
@@ -181,7 +182,6 @@
     "Cardiology/Heart Failure.md",
     "RheumImmuno/Connective Tissue/Amyloidosis.md",
     "Cardiology/Myocardial Disease/Hypertrophic Cardiomyopathy.md",
-    "Cardiology/Arrhythmias/Atrial Fibrillation.md",
     "Radiology/Week 4 (Neuro)/Brain Tumors.md",
     "Radiology/Week 4 (Neuro)/Hemorrhage.md",
     "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
