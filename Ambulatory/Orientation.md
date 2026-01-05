@@ -48,6 +48,29 @@
 
 
 **HTN Screening**
-- Age 40+, q1 year
 - Age 18-39, q3-5 years without other risk factors
-- Home measurement before starting treatme
+- Age 40+, q1 year
+- Home/ABP measurement before starting treatment
+	- ABP = holter for BP
+- Age > 60, then <150/90
+- Age < 60, then <140/90
+
+- Dietary salt restriction
+- Weight reduction
+- Limited alcohol intake
+- Potassium supplementation
+- DASH diet
+- Exercise
+
+- ACE/ARB, CCB, Thiazide (BUT NOT beta blockers)
+
+
+**Depression**
+- Age 12+ annually
+- PHQ2 or PHQ9
+
+
+**Cervical Cancer Screening**
+- Age 21-29 cytology only, q3 years
+- Age 30-65 HPV +/- cytology, q5 years or pap q3 years
+- Stop age > 65
