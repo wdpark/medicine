@@ -10,4 +10,13 @@
 ---
 **CRC Screening**
 - Colonoscopy (gold standard): need prep, sedation + drive home from appt, invasive, more relative complications
-- FOBT: 
+- Sigmoidoscopy: 2 saline enemas morning, no sedation
+- Stool DNA: needs to be used consistently to be valuable, every 3 years, if positive then next step is colonoscopy
+- FOBT: not that good, needs to be done 3 times, detects pseudoperoxidase activity in hgb
+- FIT: more sensitive than FOBT, detects human globin protein
+- CT colonography: prep + insufflation
+
+- If FH of colon cancer, screening starts age 40 or 10 years before youngest case
+	- Performed 5 year intervals
+	- Ask about polyp types, above applies to adenomatous polyps
+	- Stop around 75
