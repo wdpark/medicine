@@ -41,3 +41,13 @@
 - Age 20-39, q4-6 years
 - Age 40-75, q3-5 years
 - Age > 75 individualized decision
+- Calculate ASCVD score also and look at LDL -> statin decision
+	- LDL > 190 or DM or ASCVD > 20%, then statin
+- Measure LDL within a year if statin started
+- Don't need to be fasting for lipid panel (only triglycerides affected, repeat lipid panel if > 400)
+
+
+**HTN Screening**
+- Age 40+, q1 year
+- Age 18-39, q3-5 years without other risk factors
+- Home measurement before starting treatme
