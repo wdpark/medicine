@@ -101,5 +101,17 @@
 
 
 **Vaccines**
-- Tdap q10 years
-- Zoster
+- Tdap: q10 years
+- Zoster: after age 50
+	- Shingrix 2 dose series
+- Hep B: all adults 19-59 if not vaccinated as a child
+	- Adults 60+ with risk factors
+- HPV: all patients up to age 26
+- Flu: annually around aug/sept
+- Pneumococcal: Use PneumoRecs VaxAdvisor
+	- Age 50+, PCV15 or PCV20
+	- Age <50 if risk factors
+	- PCV15 then PPSV23
+- RSV: 
+	- Age 75+, single dose
+	- Age 50-74 if at risk
