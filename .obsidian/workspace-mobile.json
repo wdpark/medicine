@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+                "file": "Ambulatory/Orientation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acute Abdominal Pain"
+              "title": "Orientation"
             }
           }
         ]
@@ -164,17 +164,21 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+    "Ambulatory/Orientation.md",
+    "Ambulatory",
+    "/Ambulatory/Orientation.md",
+    "/Ambulatory",
+    "/Ambulatory (AAFP)",
     "Cardiology/Arrhythmias/Atrial Fibrillation.md",
     "Approaches/Chest Pain.md",
     "Approaches",
-    "Ambulatory (AAFP)/Acute Abdominal Pain.md",
     "Ambulatory (AAFP)/Alcohol Use Disorder.md",
     "Ambulatory (AAFP)",
     "/Approaches/Chest Pain.md",
     "/Ambulatory (AAFP)/Alcohol Use Disorder.md",
     "/Ambulatory (AAFP)/Acute Abdominal Pain.md",
     "/Approaches",
-    "/Ambulatory (AAFP)",
     "/Nephrology/Tubulointerstitial Disease",
     "/Nephrology/Renal Failure",
     "/Nephrology/Glomerular Disease",
@@ -190,7 +194,6 @@
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
     "zzzImages/Pasted image 20250917220625.png",
-    "zzzImages",
     "/zzzImages/Pasted image 20250917222827.png",
     "/zzzImages/Pasted image 20250917220744.png",
     "/zzzImages/Pasted image 20250917220625.png",
@@ -198,13 +201,10 @@
     "/Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
     "/Radiology/Week 4 (Neuro)/Hemorrhage.md",
     "/Radiology/Week 4 (Neuro)/Brain Tumors.md",
-    "/zzzImages",
     "/Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
     "Radiology/Week 3 (MSK)/Salter-Harris Fractures.md",
     "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
     "Untitled.md",
-    "Radiology/Week 3 (MSK)/Fractures.md",
-    "Radiology/Week 2/Extraluminal Air.md",
-    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md"
+    "Radiology/Week 3 (MSK)/Fractures.md"
   ]
 }
