@@ -71,6 +71,35 @@
 
 
 **Cervical Cancer Screening**
-- Age 21-29 cytology only, q3 years
-- Age 30-65 HPV +/- cytology, q5 years or pap q3 years
+- Age 21-29 pap only, q3 years
+- Age 30-65 HPV +/- pap, q5 years or pap q3 years
 - Stop age > 65
+
+
+**Breast Cancer Screening**
+- Age 40-74, biennial mammogram
+
+
+**Osteoporosis Screening**
+- Age > 65
+- Age < 65 with risk factors (consider FRAX calculator)
+	- Low impact fracture
+	- ART, glucocorticoids
+	- Smoking, EtOH, parental hip fracture
+- DEXA scan at least q2 years
+
+
+**AAA Screening**
+- Men age 65-75
+- Smoker
+- One time abdominal US
+
+
+**Prostate Cancer Screening**
+- Age 55-69 individual decision
+- PSA
+
+
+**Vaccines**
+- Tdap q10 years
+- Zoster
