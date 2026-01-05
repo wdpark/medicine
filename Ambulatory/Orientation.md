@@ -12,11 +12,26 @@
 - Colonoscopy (gold standard): need prep, sedation + drive home from appt, invasive, more relative complications
 - Sigmoidoscopy: 2 saline enemas morning, no sedation
 - Stool DNA: needs to be used consistently to be valuable, every 3 years, if positive then next step is colonoscopy
-- FOBT: not that good, needs to be done 3 times, detects pseudoperoxidase activity in hgb
 - FIT: more sensitive than FOBT, detects human globin protein
+- FOBT: not that good, needs to be done 3 times, detects pseudoperoxidase activity in hgb
 - CT colonography: prep + insufflation
 
 - If FH of colon cancer, screening starts age 40 or 10 years before youngest case
 	- Performed 5 year intervals
 	- Ask about polyp types, above applies to adenomatous polyps
 	- Stop around 75
+
+
+**Lung Cancer Screening**
+- Age 50-80 with 20 pack year history or quit < 15 years ago
+- Lung CT -> biospy (bronch, IR procedure, CTS if upper lobe)
+
+
+**HIV/STI Screening**
+- Age 13-65
+- Take opt-out approach (you're due for this, wait for them to say no)
+- GC/Chlamydia = urine, HIV/Syphilis = blood
+
+
+**Hepatitis C**
+- Age 18-79
