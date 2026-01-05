@@ -35,3 +35,9 @@
 
 **Hepatitis C**
 - Age 18-79
+
+
+**Lipid Screening**
+- Age 20-39, q4-6 years
+- Age 40-75, q3-5 years
+- Age > 75 individualized decision
