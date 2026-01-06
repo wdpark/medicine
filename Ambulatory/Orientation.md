@@ -35,3 +35,83 @@
 
 **Hepatitis C**
 - Age 18-79
+
+
+**Lipid Screening**
+- Age 20-39, q4-6 years
+- Age 40-75, q3-5 years
+- Age > 75 individualized decision
+- Calculate ASCVD score also and look at LDL -> statin decision
+	- LDL > 190 or DM or ASCVD > 20%, then statin
+- Measure LDL within a year if statin started
+- Don't need to be fasting for lipid panel (only triglycerides affected, repeat lipid panel if > 400)
+
+
+**HTN Screening**
+- Age 18-39, q3-5 years without other risk factors
+- Age 40+, q1 year
+- Home/ABP measurement before starting treatment
+	- ABP = holter for BP
+- Age > 60, then <150/90
+- Age < 60, then <140/90
+
+- Dietary salt restriction
+- Weight reduction
+- Limited alcohol intake
+- Potassium supplementation
+- DASH diet
+- Exercise
+
+- ACE/ARB, CCB, Thiazide (BUT NOT beta blockers)
+
+
+**Depression**
+- Age 12+ annually
+- PHQ2 or PHQ9
+
+
+**Cervical Cancer Screening**
+- Age 21-29 pap only, q3 years
+- Age 30-65 HPV +/- pap, q5 years or pap q3 years
+- Stop age > 65
+
+
+**Breast Cancer Screening**
+- Age 40-74, biennial mammogram
+
+
+**Osteoporosis Screening**
+- Age > 65
+- Age < 65 with risk factors (consider FRAX calculator)
+	- Low impact fracture
+	- ART, glucocorticoids
+	- Smoking, EtOH, parental hip fracture
+- DEXA scan at least q2 years
+
+
+**AAA Screening**
+- Men age 65-75
+- Smoker
+- One time abdominal US
+
+
+**Prostate Cancer Screening**
+- Age 55-69 individual decision
+- PSA
+
+
+**Vaccines**
+- Tdap: q10 years
+- Zoster: after age 50
+	- Shingrix 2 dose series
+- Hep B: all adults 19-59 if not vaccinated as a child
+	- Adults 60+ with risk factors
+- HPV: all patients up to age 26
+- Flu: annually around aug/sept
+- Pneumococcal: Use PneumoRecs VaxAdvisor
+	- Age 50+, PCV15 or PCV20
+	- Age <50 if risk factors
+	- PCV15 then PPSV23
+- RSV: 
+	- Age 75+, single dose
+	- Age 50-74 if at risk
