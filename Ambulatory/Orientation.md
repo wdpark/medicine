@@ -115,3 +115,5 @@
 - RSV: 
 	- Age 75+, single dose
 	- Age 50-74 if at risk
+
+- Psoriasis: triamcinolone -> clabetasol (also check vit d)
