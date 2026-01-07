@@ -117,3 +117,8 @@
 	- Age 50-74 if at risk
 
 - Psoriasis: triamcinolone -> clabetasol (also check vit d)
+
+GI clinic:
+- gerd symptoms? get bravo test (ph monitor)
+- if positive, then ppi
+- if not, then possibly functional disorder (autonomic/psychosomatic) so neuromodulators like tca
