@@ -5,8 +5,6 @@
 - submit the leader trial paper before first didactics
 - didactics quiz -> study terminology of worksheet, not the actual leader trial
 
-- look for dot phrase .im451
-
 ---
 **CRC Screening**
 - Colonoscopy (gold standard): need prep, sedation + drive home from appt, invasive, more relative complications
