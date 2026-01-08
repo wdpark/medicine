@@ -120,3 +120,8 @@ GI clinic:
 - gerd symptoms? get bravo test (ph monitor)
 - if positive, then ppi
 - if not, then possibly functional disorder (autonomic/psychosomatic) so neuromodulators like tca
+
+Cards clinic:
+- rsr in v1 = right bundle branch block if inflection is positive
+- if negative aka greater s, then left bundle branch block
+- can't really use amio long term for afib, tikosyn good but need to load inpatient and has torsades risk so qt < 500 and check mag regularly
