@@ -5,3 +5,5 @@
 	- retinopathy, nephropathy, neuropathy, impotence, acanthosis nigricans, frequent infections
 
 - New T2DM diagnosis? -> order A1C, lipid panel, urine microalbumin/creatinine ratio
+
+- 
