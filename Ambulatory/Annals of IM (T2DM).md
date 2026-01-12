@@ -1,0 +1,2 @@
+- Concerning lipid panel? check A1C to determine if statin should be started
+- 
