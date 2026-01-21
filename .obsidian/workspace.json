@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Orientation"
             }
+          },
+          {
+            "id": "7e6c6b7605e37f8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb8901a3f893dc1",
+  "active": "7e6c6b7605e37f8d",
   "lastOpenFiles": [
     "Ambulatory/Acute Abdominal Pain.md",
     "Ambulatory/Orientation.md",
