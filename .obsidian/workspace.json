@@ -35,8 +35,7 @@
               "title": "Annals of IM (T2DM)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f161162c815d478b",
+  "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Ambulatory/Orientation.md",
     "Ambulatory/Annals of IM (T2DM).md",
+    "Ambulatory/Orientation.md",
     "Approaches/Chest Pain.md",
     "Ambulatory",
     "Radiology/Week 4 (Neuro)/Brain Tumors.md",
