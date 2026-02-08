@@ -6,4 +6,6 @@
 - Creatine clearance (CrCl) is a better measure of GFR than serum creatinine, but is affected by accuracy of collection and tubular creatinine secretion
 
 **Interpretation of the UA**
+- Specific gravity (1.005-1.030) reflects hydration status and ability to concentrate urine
+- Blood (+) but RBC (-)? -> consider rhabdomyolysis or intravascular hemolysis
 - 
