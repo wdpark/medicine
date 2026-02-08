@@ -36,4 +36,8 @@
 - No need to monitor urine protein if on ACEi or ARB already
 
 **Clinical Evaluation of Hematuria**
-- 
+- Nonglomerular hematuria and imaging (-)? -> cystoscopy to evaluate for renal malignancy
+
+**Imaging Studies**
+- No hydronephrosis on renal US? -> rule out post-renal obstruction in most cases
+- CT urography
