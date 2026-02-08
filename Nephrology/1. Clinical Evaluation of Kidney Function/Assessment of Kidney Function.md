@@ -8,4 +8,10 @@
 **Interpretation of the UA**
 - Specific gravity (1.005-1.030) reflects hydration status and ability to concentrate urine
 - Blood (+) but RBC (-)? -> consider rhabdomyolysis or intravascular hemolysis
-- 
+- Leukocyte esterase and nitrites have high PPV and NPV for UTI
+- Dysmorphic RBC -> evaluate for glomerulonephritis
+- WBC (+) but culture (-)? -> sterile pyuria
+	- Consider vaginitis/cervicitis, prostatitis, AIN, kidney stones, or Chlaymydia/Mycobacterium/Ureaplasma UTI
+	- No WBC does **NOT** rule out AIN
+- Calcium oxalate
+	- 
