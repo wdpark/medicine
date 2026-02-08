@@ -40,4 +40,11 @@
 
 **Imaging Studies**
 - No hydronephrosis on renal US? -> rule out post-renal obstruction in most cases
-- CT urography
+- CT urography -> unexplained hematuria, can also characterize renal tumors and cysts
+- Noncontrast helical CT -> gold standard for nephrolithiasis
+- CT w/ contrast -> evaluate renal vasculature
+
+**Kidney Biopsy**
+- Contraindications
+	- Active UTI
+	- Uncontrolled HTN
