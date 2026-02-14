@@ -8,6 +8,10 @@ Assessment:
 - AMS, anorexia, nausea, metallic taste? -> Uremia
 - Rash? -> AIN
 - Check recent NSAID and ACEi/ARB use
+- DDx:
+	- Pre-renal
+	- Intrinsic
+	- Post-renal
 
 Plan:
 - UA, urine lytes, urine urea, urine creatinine -> FeNa and FeUrea
