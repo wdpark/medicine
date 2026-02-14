@@ -12,9 +12,9 @@ Assessment:
 Plan:
 - Serum osm and urine osm
 - DI? -> Desmopressin trial to determine central (response) vs. nephrogenic (no response)
-- Goal is to correct 8-12 over 24 hours
 
 Treatment:
+- Goal is to correct 8-12 over 24 hours
 - Ideally increase PO water intake
 - Otherwise IV fluids (D5W) or flushes
 - DI? -> Na restriction <2g per day
