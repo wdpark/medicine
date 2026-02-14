@@ -1,5 +1,6 @@
 Assessment:
 - Na <120 or AMS? -> ICU and q1-2 hr lab draws -> 3% NS 100 ml bolus to increase Na 4-6
+- Assess baseline cognition (dementia, SUD, etc.) -> Watch for ODS
 - Assess diet and alcohol use -> Beer potomania or tea/toast -> Not enough solute intake to produce urine -> Hypotonic fluid retention
 - Assess PMH of CHF, cirrhosis, ESRD, malignancy
 - Assess volume status
