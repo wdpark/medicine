@@ -11,3 +11,12 @@ Plan:
 	- Ingestion
 	- Overload refractory to diuretics
 	- Uremia leading to encephalopathy or pericarditis
+
+Treatment:
+- Inpatient dialysis schedule
+- Hypotension? -> Midodrine support
+- Phosphate binders
+	- Sevelamer
+	- Calcium acetate
+	- Carbonate
+- Bone-Mineral Disease
