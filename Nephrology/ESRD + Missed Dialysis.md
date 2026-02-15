@@ -11,6 +11,8 @@ Plan:
 	- Ingestion
 	- Overload refractory to diuretics
 	- Uremia leading to encephalopathy or pericarditis
+- If starting dialysis, begin with initiation dialysis
+	- 3 days consecutively, start at low blood flow rate and duration
 
 Treatment:
 - Inpatient dialysis schedule
@@ -19,4 +21,5 @@ Treatment:
 	- Sevelamer
 	- Calcium acetate
 	- Carbonate
-- Bone-Mineral Disease
+- Bone-Mineral Disease -> Calcium, vitamin D
+- Renal diet -> 2g sodium, 1.5-3g potassium, low phosphate, 1L fluid restriction
