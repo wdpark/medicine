@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/2. Fluids and Electrolytes.md",
+                "file": "Nephrology/IgA Nephropathy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Fluids and Electrolytes"
+              "title": "IgA Nephropathy"
             }
           }
         ]
@@ -180,8 +180,21 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Nephrology/1. Clinical Evaluation of Kidney Function.md",
+    "Nephrology/Hyponatremia.md",
+    "Nephrology/IgA Nephropathy.md",
+    "Nephrology/ESRD + Missed Dialysis.md",
+    "Nephrology/Hypernatremia.md",
+    "Nephrology/AKI.md",
+    "zzzImages/Pasted image 20250917222827.png",
+    "zzzImages/Pasted image 20250917220744.png",
+    "zzzImages/Pasted image 20250917220625.png",
+    "Radiology/Week 1 (Chest)/Pleural Effusion.md",
+    "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
+    "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
+    "Radiology/Week 1 (Chest)/CXR Pathologies.md",
+    "Cardiology/Arrhythmias/Atrioventricular Block.md",
     "Nephrology/2. Fluids and Electrolytes.md",
+    "Nephrology/1. Clinical Evaluation of Kidney Function.md",
     "Nephrology/2. Fluids and Electrolytes/Untitled.md",
     "Nephrology/1. Clinical Evaluation of Kidney Function/Clinical Evaluation of Kidney Function.md",
     "Ambulatory/Annals of IM (T2DM).md",
@@ -202,23 +215,10 @@
     "Radiology/Week 4 (Neuro)/Hemorrhage.md",
     "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
     "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
-    "zzzImages/Pasted image 20250917222827.png",
-    "zzzImages/Pasted image 20250917220744.png",
-    "zzzImages/Pasted image 20250917220625.png",
     "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
     "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
     "Radiology/Week 3 (MSK)/Salter-Harris Fractures.md",
     "Radiology/Week 3 (MSK)/Fractures.md",
-    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md",
-    "Radiology/Week 2 (Abdomen)/RLQ Abdominal Pain on CT.md",
-    "Radiology/Week 2 (Abdomen)/Gas Pattern.md",
-    "Radiology/Week 2 (Abdomen)/Soft-Tissue Mass and Organomegaly.md",
-    "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
-    "Radiology/Week 2 (Abdomen)/Calcifications.md",
-    "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
-    "Radiology/Week 1 (Chest)/Pneumothorax.md",
-    "Radiology/Week 1 (Chest)/CXR Pathologies.md",
-    "Radiology/Week 1 (Chest)/Pneumonia.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Radiology/Pasted image 20250826005411.png",
