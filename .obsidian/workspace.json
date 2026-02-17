@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/Hyponatremia.md",
+                "file": "Nephrology/IgA Nephropathy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyponatremia"
+              "title": "IgA Nephropathy"
             }
           }
         ]
@@ -180,9 +180,10 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
+    "Nephrology/Hyponatremia.md",
+    "Nephrology/IgA Nephropathy.md",
     "Nephrology/ESRD + Missed Dialysis.md",
     "Nephrology/Hypernatremia.md",
-    "Nephrology/Hyponatremia.md",
     "Nephrology/AKI.md",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
@@ -218,7 +219,6 @@
     "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
     "Radiology/Week 3 (MSK)/Salter-Harris Fractures.md",
     "Radiology/Week 3 (MSK)/Fractures.md",
-    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Radiology/Pasted image 20250826005411.png",
