@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/IgA Nephropathy.md",
+                "file": "Nephrology/AKI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IgA Nephropathy"
+              "title": "AKI"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Nephrology/IgA Nephropathy.md",
     "Nephrology/2. Fluids and Electrolytes.md",
     "Nephrology/Hyponatremia.md",
-    "Nephrology/IgA Nephropathy.md",
     "Nephrology/ESRD + Missed Dialysis.md",
     "Nephrology/AKI.md",
     "Nephrology/Hypernatremia.md",
