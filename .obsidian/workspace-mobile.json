@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Nephrology/AKI.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a4ec83e1752465e",
+  "active": "0ded8dd7f19264af",
   "lastOpenFiles": [
     "/Nephrology/Membranous Nephropathy.md",
     "Nephrology/Membranous Nephropathy.md",
