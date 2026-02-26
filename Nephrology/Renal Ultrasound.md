@@ -1,0 +1,2 @@
+- <9 cm = Atrophic
+- >12 cm = Hypertrophic

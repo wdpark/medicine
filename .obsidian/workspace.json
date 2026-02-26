@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/Renal Pearls of Wisdom.md",
+                "file": "Nephrology/Renal Ultrasound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renal Pearls of Wisdom"
+              "title": "Renal Ultrasound"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
     "Nephrology/AKI.md",
-    "Nephrology/Renal Pearls of Wisdom.md",
+    "Nephrology/Renal Ultrasound.md",
     "Nephrology/ESRD + Missed Dialysis.md",
     "Nephrology/Hypernatremia.md",
     "Nephrology/Hyponatremia.md",
