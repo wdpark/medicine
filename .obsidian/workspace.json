@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/HRS.md",
+                "file": "Nephrology/Electrolytes/Hyperkalemia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRS"
+              "title": "Hyperkalemia"
             }
           }
         ]
@@ -178,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66f028ffe1cd08d0",
+  "active": "3fdf4495593bde58",
   "lastOpenFiles": [
-    "Gastroenterology/Liver/Physiology.md",
+    "Nephrology/Electrolytes",
     "Nephrology/HRS.md",
+    "Nephrology/Electrolytes/Hyperkalemia.md",
+    "Gastroenterology/Liver/Physiology.md",
     "Internal Medicine/ICU Indications.md",
     "Gastroenterology/Liver/Phsio",
     "Gastroenterology/Liver",
@@ -194,7 +196,7 @@
     "Nephrology/Resistant HTN.md",
     "Nephrology/Renal Ultrasound.md",
     "Nephrology/IgA Nephropathy.md",
-    "Nephrology/Hyponatremia.md",
+    "Nephrology/Electrolytes/Hyponatremia.md",
     "Cardiology/Shock.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
     "Cardiology/Pericarditis.md",
@@ -202,7 +204,7 @@
     "Cardiology/Hypertension.md",
     "Cardiology/Cardiac Myxoma.md",
     "Nephrology/ESRD + Missed Dialysis.md",
-    "Nephrology/Hypernatremia.md",
+    "Nephrology/Electrolytes/Hypernatremia.md",
     "Nephrology/Membranous Nephropathy.md",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
@@ -210,8 +212,6 @@
     "Radiology/Week 1 (Chest)/Pleural Effusion.md",
     "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
     "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
-    "Radiology/Week 1 (Chest)/CXR Pathologies.md",
-    "Cardiology/Arrhythmias/Atrioventricular Block.md",
     "Ambulatory",
     "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
