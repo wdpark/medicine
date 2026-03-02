@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gastroenterology/Liver/Physiology.md",
+                "file": "Nephrology/HRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physiology"
+              "title": "HRS"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fdf4495593bde58",
+  "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Internal Medicine/ICU Indications.md",
     "Gastroenterology/Liver/Physiology.md",
+    "Nephrology/HRS.md",
+    "Internal Medicine/ICU Indications.md",
     "Gastroenterology/Liver/Phsio",
     "Gastroenterology/Liver",
     "Gastroenterology/Liver.md",
@@ -211,7 +212,6 @@
     "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
     "Radiology/Week 1 (Chest)/CXR Pathologies.md",
     "Cardiology/Arrhythmias/Atrioventricular Block.md",
-    "Nephrology/2. Fluids and Electrolytes.md",
     "Ambulatory",
     "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
