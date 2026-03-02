@@ -13,6 +13,7 @@ Plan:
 	- Uremia leading to encephalopathy or pericarditis
 - If starting dialysis, begin with initiation dialysis
 	- 3 days consecutively, start at low blood flow rate and duration
+- Phosphate should go up in ESRD -> increases PTH and Ca <- inhibited by vitamin D
 
 Treatment:
 - Inpatient dialysis schedule

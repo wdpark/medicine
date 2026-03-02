@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/Renal Ultrasound.md",
+                "file": "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renal Ultrasound"
+              "title": "Pericardial Effusion and Cardiac Tamponade"
             }
           }
         ]
@@ -180,9 +180,17 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Nephrology/AKI.md",
-    "Nephrology/Renal Ultrasound.md",
+    "Cardiology/Pericarditis.md",
+    "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
+    "Cardiology/Myocardial Infarction.md",
+    "Cardiology/Shock.md",
+    "Cardiology/Hypertension.md",
+    "Cardiology/Cardiac Myxoma.md",
+    "Nephrology/Resistant HTN.md",
     "Nephrology/ESRD + Missed Dialysis.md",
+    "Nephrology/Renal Ultrasound.md",
+    "Nephrology/ATN.md",
+    "Nephrology/AKI.md",
     "Nephrology/Hypernatremia.md",
     "Nephrology/Hyponatremia.md",
     "Nephrology/IgA Nephropathy.md",
@@ -201,9 +209,7 @@
     "Nephrology/1. Clinical Evaluation of Kidney Function/Clinical Evaluation of Kidney Function.md",
     "Ambulatory/Annals of IM (T2DM).md",
     "Ambulatory/Orientation.md",
-    "Approaches/Chest Pain.md",
     "Ambulatory",
-    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
     "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
     "Nephrology/11. Kidney in Pregnancy",
@@ -213,12 +219,6 @@
     "Nephrology/7. Kidney Manifestations of Deposition Diseases",
     "Nephrology/6. Glomerular Diseases",
     "Nephrology/5. Chronic Tubulointerstitial Nephritis",
-    "Nephrology/Sodium Management.md",
-    "Radiology/Week 4 (Neuro)/Hemorrhage.md",
-    "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
-    "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
-    "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
-    "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Radiology/Pasted image 20250826005411.png",

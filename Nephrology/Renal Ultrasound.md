@@ -1,2 +1,3 @@
 - <9 cm = Atrophic
 - >12 cm = Hypertrophic
+- If unilateral atrophic, expect compensatory hypertrophy on contralateral side
