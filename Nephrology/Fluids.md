@@ -4,5 +4,5 @@
 Distribution:
 - EC 2/3
 	- IV 1/4
-	- Interstitial
+	- Interstitial 3/4
 - IC 1/3

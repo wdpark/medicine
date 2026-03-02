@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/Fluids.md",
+                "file": "Nephrology/Electrolytes/Hypercalcemia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluids"
+              "title": "Hypercalcemia"
             }
           }
         ]
@@ -180,10 +180,14 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
+    "Nephrology/Electrolytes/Hyponatremia.md",
+    "Nephrology/Electrolytes/Hypernatremia.md",
+    "Nephrology/Electrolytes/Hyperkalemia.md",
+    "Nephrology/Electrolytes/Hypercalcemia.md",
+    "Nephrology/Fluids.md",
     "Nephrology/HRS.md",
     "Nephrology/AKI.md",
     "Nephrology/ATN.md",
-    "Nephrology/Electrolytes/Hyperkalemia.md",
     "Nephrology/Electrolytes",
     "Gastroenterology/Liver/Physiology.md",
     "Internal Medicine/ICU Indications.md",
@@ -191,12 +195,10 @@
     "Gastroenterology/Liver",
     "Gastroenterology/Liver.md",
     "Internal Medicine",
-    "Nephrology/Fluids.md",
     "Nephrology/Dialysis Types.md",
     "Nephrology/Resistant HTN.md",
     "Nephrology/Renal Ultrasound.md",
     "Nephrology/IgA Nephropathy.md",
-    "Nephrology/Electrolytes/Hyponatremia.md",
     "Cardiology/Shock.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
     "Cardiology/Pericarditis.md",
@@ -204,7 +206,6 @@
     "Cardiology/Hypertension.md",
     "Cardiology/Cardiac Myxoma.md",
     "Nephrology/ESRD + Missed Dialysis.md",
-    "Nephrology/Electrolytes/Hypernatremia.md",
     "Nephrology/Membranous Nephropathy.md",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
