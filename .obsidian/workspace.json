@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/Electrolytes/Hyperkalemia.md",
+                "file": "Nephrology/HRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyperkalemia"
+              "title": "HRS"
             }
           }
         ]
@@ -178,21 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fdf4495593bde58",
+  "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Nephrology/Electrolytes",
+    "Nephrology/AKI.md",
+    "Nephrology/ATN.md",
     "Nephrology/HRS.md",
     "Nephrology/Electrolytes/Hyperkalemia.md",
+    "Nephrology/Electrolytes",
     "Gastroenterology/Liver/Physiology.md",
     "Internal Medicine/ICU Indications.md",
     "Gastroenterology/Liver/Phsio",
     "Gastroenterology/Liver",
     "Gastroenterology/Liver.md",
-    "Nephrology/ATN.md",
     "Internal Medicine",
     "Nephrology/Fluids.md",
     "Nephrology/Dialysis Types.md",
-    "Nephrology/AKI.md",
     "Nephrology/Resistant HTN.md",
     "Nephrology/Renal Ultrasound.md",
     "Nephrology/IgA Nephropathy.md",
@@ -218,7 +218,6 @@
     "Nephrology/11. Kidney in Pregnancy",
     "Nephrology/10. Kidney Stones",
     "Nephrology/9. Acute Kidney Injury",
-    "Nephrology/8. Genetic Disorders and Kidney Disease",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Radiology/Pasted image 20250826005411.png",
