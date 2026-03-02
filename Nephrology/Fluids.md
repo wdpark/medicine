@@ -1,0 +1,2 @@
+- Never push free water
+	- Can cause local hypotonicity that leads to hemolysis

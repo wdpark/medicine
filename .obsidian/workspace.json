@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/Shock.md",
+                "file": "Nephrology/Fluids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shock"
+              "title": "Fluids"
             }
           }
         ]
@@ -180,20 +180,22 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
+    "Nephrology/Dialysis Types.md",
+    "Nephrology/Fluids.md",
+    "Nephrology/AKI.md",
+    "Nephrology/ATN.md",
+    "Nephrology/Resistant HTN.md",
+    "Nephrology/Renal Ultrasound.md",
+    "Nephrology/IgA Nephropathy.md",
+    "Nephrology/Hyponatremia.md",
+    "Cardiology/Shock.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
     "Cardiology/Pericarditis.md",
     "Cardiology/Myocardial Infarction.md",
-    "Cardiology/Shock.md",
     "Cardiology/Hypertension.md",
     "Cardiology/Cardiac Myxoma.md",
-    "Nephrology/Resistant HTN.md",
     "Nephrology/ESRD + Missed Dialysis.md",
-    "Nephrology/Renal Ultrasound.md",
-    "Nephrology/ATN.md",
-    "Nephrology/AKI.md",
     "Nephrology/Hypernatremia.md",
-    "Nephrology/Hyponatremia.md",
-    "Nephrology/IgA Nephropathy.md",
     "Nephrology/Membranous Nephropathy.md",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
@@ -207,8 +209,6 @@
     "Nephrology/1. Clinical Evaluation of Kidney Function.md",
     "Nephrology/2. Fluids and Electrolytes/Untitled.md",
     "Nephrology/1. Clinical Evaluation of Kidney Function/Clinical Evaluation of Kidney Function.md",
-    "Ambulatory/Annals of IM (T2DM).md",
-    "Ambulatory/Orientation.md",
     "Ambulatory",
     "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
