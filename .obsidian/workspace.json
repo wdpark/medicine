@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
+                "file": "Cardiology/Shock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pericardial Effusion and Cardiac Tamponade"
+              "title": "Shock"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
-    "Cardiology/Pericarditis.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
+    "Cardiology/Pericarditis.md",
     "Cardiology/Myocardial Infarction.md",
     "Cardiology/Shock.md",
     "Cardiology/Hypertension.md",
