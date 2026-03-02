@@ -1,0 +1,4 @@
+- Increased oxygen requirement:
+	- BiPAP or intubation = ICU
+	- NC or HFNC = Floors
+- Less than or equal to q4h nursi
