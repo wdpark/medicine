@@ -23,4 +23,4 @@ Treatment:
 	- Add JAK inhibitor (tofacitinib, upadacitinib) for PO option
 
 - Monitor with CBC/LFT q4-8 weeks on MTX, yearly once stable
-- Target is DAS28 < 2.6, which is remission or low disease activity
+- Target is DAS28 < 2.6, which is remission or low disease activity test

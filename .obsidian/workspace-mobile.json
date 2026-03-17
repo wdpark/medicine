@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/AKI.md",
+                "file": "Rheumatology/Rheumatoid Arthritis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKI"
+              "title": "Rheumatoid Arthritis"
             }
           }
         ]
@@ -98,14 +98,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nephrology/Membranous Nephropathy.md",
+            "file": "Rheumatology/Rheumatoid Arthritis.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -149,7 +149,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +163,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a4ec83e1752465e",
+  "active": "1e57842057dd043b",
   "lastOpenFiles": [
-    "Nephrology/ESRD + Missed Dialysis.md",
     "Nephrology/AKI.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
+    "Rheumatology",
+    "/Rheumatology/Rheumatoid Arthritis.md",
+    "/Rheumatology",
+    "/RheumImmuno/Vasculitis",
+    "/RheumImmuno/Myopathies and Pain Syndromes",
+    "/RheumImmuno/Joints",
+    "/RheumImmuno/Connective Tissue",
+    "/RheumImmuno",
+    "Nephrology/ESRD + Missed Dialysis.md",
     "Nephrology/Membranous Nephropathy.md",
     "Nephrology/Fluids.md",
     "Nephrology/Dialysis Types.md",
@@ -191,16 +200,7 @@
     "/Nephrology/Electrolytes/Hyperkalemia.md",
     "/Nephrology/Electrolytes/Hypercalcemia.md",
     "/Nephrology/ESRD + Missed Dialysis.md",
-    "/Nephrology/Dialysis Types.md",
-    "/Nephrology/ATN.md",
     "/Nephrology/Electrolytes",
-    "/Internal Medicine",
-    "/Nephrology",
-    "/Gastroenterology/Stomach",
-    "/Gastroenterology/Spleen",
-    "/Gastroenterology/Pancreas",
-    "/Gastroenterology/Liver",
-    "/Gastroenterology/Intestine and Appendix",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
     "zzzImages/Pasted image 20250917220625.png",
