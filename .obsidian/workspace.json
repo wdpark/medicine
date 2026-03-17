@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrology/AKI.md",
+                "file": "Rheumatology/Rheumatoid Arthritis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKI"
+              "title": "Rheumatoid Arthritis"
             }
           }
         ]
@@ -180,24 +180,26 @@
   },
   "active": "66f028ffe1cd08d0",
   "lastOpenFiles": [
+    "Nephrology/AKI.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
     "Nephrology/Dialysis Types.md",
     "Nephrology/ATN.md",
     "Nephrology/Electrolytes/Hypercalcemia.md",
     "Nephrology/Electrolytes/Hypernatremia.md",
     "Nephrology/Electrolytes/Hyperkalemia.md",
+    "Internal Medicine/ICU Indications.md",
+    "RheumImmuno/Serum Sickness.md",
+    "Nephrology/Renal Ultrasound.md",
+    "Nephrology/Resistant HTN.md",
     "Nephrology/Electrolytes/Hyponatremia.md",
     "Nephrology/Fluids.md",
     "Nephrology/HRS.md",
-    "Nephrology/AKI.md",
     "Nephrology/Electrolytes",
     "Gastroenterology/Liver/Physiology.md",
-    "Internal Medicine/ICU Indications.md",
     "Gastroenterology/Liver/Phsio",
     "Gastroenterology/Liver",
     "Gastroenterology/Liver.md",
     "Internal Medicine",
-    "Nephrology/Resistant HTN.md",
-    "Nephrology/Renal Ultrasound.md",
     "Nephrology/IgA Nephropathy.md",
     "Cardiology/Shock.md",
     "Cardiology/Pericardial Effusion and Cardiac Tamponade.md",
@@ -211,8 +213,6 @@
     "zzzImages/Pasted image 20250917220744.png",
     "zzzImages/Pasted image 20250917220625.png",
     "Radiology/Week 1 (Chest)/Pleural Effusion.md",
-    "Radiology/Week 1 (Chest)/Mediastinum Abnormalities.md",
-    "Radiology/Week 1 (Chest)/Factors for Adequate CXR.md",
     "Ambulatory",
     "Approaches",
     "Nephrology/12. Chronic Kidney Disease",
