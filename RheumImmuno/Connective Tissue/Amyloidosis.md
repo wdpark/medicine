@@ -1,2 +1,0 @@
-- Two most common: TTR (older) and AL proteins
-- Treatment: Tafamidis and Acoramidis (Stabilizers) and Vutrisiran (Silencer)
