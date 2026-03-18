@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ambulatory (AAFP)/Acute Abdominal Pain.md",
+                "file": "Rheumatology/Rheumatoid Arthritis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acute Abdominal Pain"
+              "title": "Rheumatoid Arthritis"
             }
           }
         ]
@@ -98,13 +98,14 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Rheumatology/Rheumatoid Arthritis.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -162,49 +163,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a4ec83e1752465e",
+  "active": "1e57842057dd043b",
   "lastOpenFiles": [
-    "Cardiology/Arrhythmias/Atrial Fibrillation.md",
-    "Approaches/Chest Pain.md",
-    "Approaches",
-    "Ambulatory (AAFP)/Acute Abdominal Pain.md",
-    "Ambulatory (AAFP)/Alcohol Use Disorder.md",
-    "Ambulatory (AAFP)",
-    "/Approaches/Chest Pain.md",
-    "/Ambulatory (AAFP)/Alcohol Use Disorder.md",
-    "/Ambulatory (AAFP)/Acute Abdominal Pain.md",
-    "/Approaches",
-    "/Ambulatory (AAFP)",
-    "/Nephrology/Tubulointerstitial Disease",
-    "/Nephrology/Renal Failure",
-    "/Nephrology/Glomerular Disease",
-    "/Nephrology",
-    "Cardiology/Heart Failure.md",
-    "RheumImmuno/Connective Tissue/Amyloidosis.md",
-    "Cardiology/Myocardial Disease/Hypertrophic Cardiomyopathy.md",
-    "Radiology/Week 4 (Neuro)/Brain Tumors.md",
-    "Radiology/Week 4 (Neuro)/Hemorrhage.md",
-    "Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
-    "Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
-    "Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
+    "Nephrology/AKI.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
+    "Rheumatology",
+    "/Rheumatology/Rheumatoid Arthritis.md",
+    "/Rheumatology",
+    "/RheumImmuno/Vasculitis",
+    "/RheumImmuno/Myopathies and Pain Syndromes",
+    "/RheumImmuno/Joints",
+    "/RheumImmuno/Connective Tissue",
+    "/RheumImmuno",
+    "Nephrology/ESRD + Missed Dialysis.md",
+    "Nephrology/Membranous Nephropathy.md",
+    "Nephrology/Fluids.md",
+    "Nephrology/Dialysis Types.md",
+    "Nephrology/ATN.md",
+    "Nephrology/HRS.md",
+    "Internal Medicine/ICU Indications.md",
+    "Internal Medicine",
+    "Gastroenterology/Liver/Physiology.md",
+    "Nephrology/Electrolytes/Hyponatremia.md",
+    "Nephrology/Electrolytes/Hyperkalemia.md",
+    "Nephrology/Electrolytes/Hypercalcemia.md",
+    "Nephrology/Electrolytes/Hypernatremia.md",
+    "Nephrology/Electrolytes",
+    "Nephrology/Renal Ultrasound.md",
+    "Nephrology/Resistant HTN.md",
+    "/Nephrology/Electrolytes/Hyponatremia.md",
+    "/Nephrology/Electrolytes/Hypernatremia.md",
+    "/Nephrology/Resistant HTN.md",
+    "/Nephrology/Renal Ultrasound.md",
+    "/Nephrology/HRS.md",
+    "/Nephrology/Fluids.md",
+    "/Nephrology/Electrolytes/Hyperkalemia.md",
+    "/Nephrology/Electrolytes/Hypercalcemia.md",
+    "/Nephrology/ESRD + Missed Dialysis.md",
+    "/Nephrology/Electrolytes",
     "zzzImages/Pasted image 20250917222827.png",
     "zzzImages/Pasted image 20250917220744.png",
     "zzzImages/Pasted image 20250917220625.png",
-    "zzzImages",
     "/zzzImages/Pasted image 20250917222827.png",
     "/zzzImages/Pasted image 20250917220744.png",
-    "/zzzImages/Pasted image 20250917220625.png",
-    "/Radiology/Week 4 (Neuro)/Pediatric Cervical Spine, Normal Anatomy, Variants, and Trauma.md",
-    "/Radiology/Week 4 (Neuro)/Normal Brain Anatomy.md",
-    "/Radiology/Week 4 (Neuro)/Hemorrhage.md",
-    "/Radiology/Week 4 (Neuro)/Brain Tumors.md",
-    "/zzzImages",
-    "/Radiology/Week 3 (MSK)/Bone Tumors and Tumorlike Conditions.md",
-    "Radiology/Week 3 (MSK)/Salter-Harris Fractures.md",
-    "Radiology/Week 3 (MSK)/Eponymous Fractures.md",
-    "Untitled.md",
-    "Radiology/Week 3 (MSK)/Fractures.md",
-    "Radiology/Week 2/Extraluminal Air.md",
-    "Radiology/Week 2 (Abdomen)/Extraluminal Air.md"
+    "/zzzImages/Pasted image 20250917220625.png"
   ]
 }

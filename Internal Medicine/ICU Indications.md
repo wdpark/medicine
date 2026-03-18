@@ -1,0 +1,5 @@
+- Increased oxygen requirement:
+	- BiPAP or intubation = ICU
+	- NC or HFNC = Floors
+- Less than or equal to q4h nursing checks
+- Pressor or insulin gtt

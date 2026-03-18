@@ -1,0 +1,3 @@
+- Circulating ammonia -> processed by liver into urea (aka BUN) -> excreted by kidney
+- ESRD (-) and cirrhosis (+)? -> Elevated ammonia
+- ESRD (+) and cirrhosis (-)? -> Elevated BUN

@@ -1,0 +1,4 @@
+- K > 6?
+	- Insulin + D5W
+	- Calcium gluconate
+	- EKG

@@ -1,13 +1,4 @@
-- read alcohol use, smoking cessation, and one of my choice (except T2DM)
-- brief write-up: summarize 3 preventative health or diagnostic principles, 3 management principles, and one specific patient application of these principles FOR EACH article do bullet points
 
-- jama 3 articles -> 3 worksheets, also write commentary on if this is a good study (use the glossary also to answer the questions correctly)
-- submit the leader trial paper before first didactics
-- didactics quiz -> study terminology of worksheet, not the actual leader trial
-
-- look for dot phrase .im451
-
----
 **CRC Screening**
 - Colonoscopy (gold standard): need prep, sedation + drive home from appt, invasive, more relative complications
 - Sigmoidoscopy: 2 saline enemas morning, no sedation
@@ -115,3 +106,15 @@
 - RSV: 
 	- Age 75+, single dose
 	- Age 50-74 if at risk
+
+- Psoriasis: triamcinolone -> clabetasol (also check vit d)
+
+GI clinic:
+- gerd symptoms? get bravo test (ph monitor)
+- if positive, then ppi
+- if not, then possibly functional disorder (autonomic/psychosomatic) so neuromodulators like tca
+
+Cards clinic:
+- rsr in v1 = right bundle branch block if inflection is positive
+- if negative aka greater s, then left bundle branch block
+- can't really use amio long term for afib, tikosyn good but need to load inpatient and has torsades risk so qt < 500 and check mag regularly
