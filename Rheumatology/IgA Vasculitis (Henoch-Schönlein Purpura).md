@@ -38,6 +38,7 @@ Treatment:
 
 - Consider steroids if severe with other organ involvement
 - Prednisone (max 60-80 mg) for 1-2 weeks, then taper
-	- Prevents GI complications, but NOT nephritis
-- 
+	- Helps with GI and joints, but NOT nephritis
+
+- Adults have worse renal prognosis, so monitor with UA for 6-12 months
 
