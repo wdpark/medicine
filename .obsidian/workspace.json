@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheumatology/Systemic Lupus Erythematousus.md",
+                "file": "Rheumatology/Systemic Lupus Erythematosus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systemic Lupus Erythematousus"
+              "title": "Systemic Lupus Erythematosus"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
     "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
-    "Rheumatology/Systemic Lupus Erythematousus.md",
+    "Rheumatology/Systemic Lupus Erythematosus.md",
     "Rheumatology/Rheumatoid Arthritis.md",
     "Ambulatory/Orientation.md",
     "Rheumatology",
