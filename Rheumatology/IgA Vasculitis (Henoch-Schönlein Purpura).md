@@ -5,13 +5,17 @@ Assessment:
 	- Arthritis or arthralgia (acute onset)
 	- Kidney involvement (proteinuria, hematuria)
 	- Leukocytoclastic vasculitis or proliferative glomerulonephritis with IgA deposition
-- Other symptoms can include edema or effusions
+- Other symptoms can include edema or effusions, scrotal involvement in males
 
 - Preceding URI or strep pharyngitis 1-3 weeks prior?
 - New medications, foods, or insect bites?
 
 Plan:
-
+- Serum IgA can be elevated
+- UA with micro
+- Urine protein:creatinine
+- ANA, ANCA, complement (rule out other vasculitides)
+- CBC (rule out ITP), BMP, coagulation studies, ESR/CRP
 
 Treatment:
 
