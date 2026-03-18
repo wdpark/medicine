@@ -10,6 +10,13 @@ Assessment:
 - Preceding URI or strep pharyngitis 1-3 weeks prior?
 - New medications, foods, or insect bites?
 
+- DDx:
+	- Septicemia/meningococcemia
+	- ITP (low platelets)
+	- Child abuse
+	- Reactive arthritis, serum sickness
+	- GPA or MPA (if ANCA positive)
+
 Plan:
 - Serum IgA can be elevated
 - UA with micro
@@ -17,6 +24,20 @@ Plan:
 - ANA, ANCA, complement (rule out other vasculitides)
 - CBC (rule out ITP), BMP, coagulation studies, ESR/CRP
 
-Treatment:
+- Intussusception? -> Abdominal ultrasound
+- Orchitis? -> Scrotal ultrasound
+- Pulmonary hemorrhage? -> CXR
 
+- Skin biopsy with immunofixation (IgA)
+- Renal biopsy
+
+Treatment:
+- Usually self-limiting -> supportive
+- NSAIDs are ok if no renal involvement
+- Usually resolved 4-6 weeks
+
+- Consider steroids if severe with other organ involvement
+- Prednisone (max 60-80 mg) for 1-2 weeks, then taper
+	- Prevents GI complications, but NOT nephritis
+- 
 
