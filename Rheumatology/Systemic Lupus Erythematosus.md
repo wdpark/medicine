@@ -10,7 +10,7 @@ Assessment:
 	- Renal (hematuria, proteinuria)
 	- Serositis (pleuritis, pericarditis)
 	- Blood (hemolytic anemia, leukopenia, thrombocytopenia)
-	- Neurologic (seizures, psychosis)
+	- Neurologic (seizures, psycho`sis)
 
 - Medications (hydralazine, procainamide, isoniazid)
 
