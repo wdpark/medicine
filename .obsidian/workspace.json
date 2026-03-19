@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheumatology/Sjögrens Disease.md",
+                "file": "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sjögrens Disease"
+              "title": "Autoimmune Lab Interpretation Wisdom"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
-    "Rheumatology/Rheumatoid Arthritis.md",
     "Rheumatology/Sjögrens Disease.md",
+    "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
     "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
     "Rheumatology/Systemic Lupus Erythematosus.md",
     "Rheumatology/Small Vessel Vasculitis Classification.md",
@@ -209,7 +210,6 @@
     "Gastroenterology/Liver/Physiology.md",
     "Ambulatory/Annals of IM (T2DM).md",
     "Ambulatory/Acute Abdominal Pain.md",
-    "Approaches/Chest Pain.md",
     "Untitled",
     "Ambulatory",
     "zzzImages/Pasted image 20250917220625.png",
