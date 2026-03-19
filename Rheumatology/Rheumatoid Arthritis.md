@@ -12,7 +12,7 @@ Plan:
 - RF (-) and anti-CCP (-)? -> Seronegative RF still possible
 
 Treatment:
-- Methotrexate 10-25 mg/wk PO or SQ
+- Methotrexate 10-25 mg/week PO or SQ
 	- Folic acid 1 mg daily to reduce ^^ toxicity
 - Hydroxychloroquine and/or sulfasalazine
 - Bridge with prednisone taper or intra-articular steroids
