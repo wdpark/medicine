@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Systemic Lupus Erythematosus"
             }
+          },
+          {
+            "id": "349d4ffcc81f3476",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb8901a3f893dc1",
+  "active": "349d4ffcc81f3476",
   "lastOpenFiles": [
     "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
     "Rheumatology/Systemic Lupus Erythematosus.md",
