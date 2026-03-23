@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheumatology/Psoriatic Arthritis.md",
+                "file": "Cardiology Fellowship Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psoriatic Arthritis"
+              "title": "Cardiology Fellowship Plan"
             }
           }
         ]
@@ -180,18 +180,22 @@
   },
   "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
-    "Rheumatology/Gout.md",
-    "Rheumatology/Psoriatic Arthritis.md",
-    "Rheumatology/Sjögrens Disease.md",
-    "Nephrology/Renal Tubular Acidosis.md",
-    "Nephrology/Renal Ultrasound.md",
+    "Cardiology/Shock.md",
+    "Cardiology Fellowship Plan.md",
+    "Approaches/Chest Pain.md",
+    "Ambulatory/Annals of IM (T2DM).md",
+    "Ambulatory/Orientation.md",
     "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
+    "Rheumatology/Gout.md",
+    "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
+    "Rheumatology/Psoriatic Arthritis.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
+    "Rheumatology/Sjögrens Disease.md",
     "Rheumatology/Small Vessel Vasculitis Classification.md",
     "Rheumatology/Systemic Lupus Erythematosus.md",
-    "Rheumatology/Rheumatoid Arthritis.md",
-    "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
+    "Nephrology/Renal Tubular Acidosis.md",
+    "Nephrology/Renal Ultrasound.md",
     "conflict-files-obsidian-git.md",
-    "Ambulatory/Orientation.md",
     "Rheumatology",
     "Nephrology/Electrolytes/Hyponatremia.md",
     "Nephrology/Electrolytes/Hypernatremia.md",
@@ -204,11 +208,7 @@
     "Nephrology/Fluids.md",
     "Nephrology/Electrolytes",
     "Nephrology/ESRD + Missed Dialysis.md",
-    "Nephrology/Dialysis Types.md",
-    "Nephrology/ATN.md",
-    "Nephrology/AKI.md",
     "Nephrology",
-    "Internal Medicine/ICU Indications.md",
     "Internal Medicine",
     "Untitled",
     "Ambulatory",
