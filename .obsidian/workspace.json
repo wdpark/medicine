@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiology Fellowship Plan.md",
+                "file": "Cardiology/Shock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cardiology Fellowship Plan"
+              "title": "Shock"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
-    "Cardiology/Shock.md",
     "Cardiology Fellowship Plan.md",
+    "Cardiology/Shock.md",
     "Approaches/Chest Pain.md",
     "Ambulatory/Annals of IM (T2DM).md",
     "Ambulatory/Orientation.md",
