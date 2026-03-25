@@ -7,6 +7,7 @@ Plan:
 
 Treatment:
 - If uric acid stones, CKD, more than 1 gout flare annually, or tophi -> colchicine ppx
+- Check for statin and colchicine interaction, side effect is myopathy
 - 800 mg allopurinol is max dose + 0.6 mg colchicine ppx
 - Flares -> 1.2 mg colchicine, then 0.6 mg colchicine 1 hour later
 - Add probenecid if maxed on allopurinol and not at uric acid goal (<6)
