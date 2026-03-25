@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheumatology/Gout.md",
+                "file": "Rheumatology/Rheumatoid Arthritis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gout"
+              "title": "Rheumatoid Arthritis"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "2a4ec83e1752465e",
   "lastOpenFiles": [
+    "Rheumatology/Gout.md",
     "Rheumatology/Rheumatoid Arthritis.md",
     "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
     "Approaches/Chest Pain.md",
     "Rheumatology/Systemic Lupus Erythematosus.md",
-    "Rheumatology/Gout.md",
     "Rheumatology/Psoriatic Arthritis.md",
     "/Rheumatology/Sjögrens Disease.md",
     "/Rheumatology/Psoriatic Arthritis.md",
