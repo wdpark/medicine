@@ -9,3 +9,6 @@ Plan:
 	- III: Multiple interconnected tracts, abscesses cover entire skin area
 
 Treatment:
+- Adalimumab, other biologics
+- Retinoids, tetracyclines, rifampin + clindamycin, hormonal treatment, moxifloxacin + rifampin + metronidazole
+- Surgical intervention
