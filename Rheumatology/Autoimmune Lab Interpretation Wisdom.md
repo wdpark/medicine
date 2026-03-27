@@ -1,1 +1,3 @@
-- ANA (+) with nucleolar or centromere pattern? -> check direct antibody (centromere or nucleolar)
+- ANA (+) with nucleolar or centromere pattern? -> check direct antibody (centromere or nucleolar) given less likely to be incidental
+- ANA (+) with homogenous or speckled pattern? -> not as suspicious, could be incidental (~1/4 false positive)
+- RNP (+)? -> risk for pulmonary HTN -> annual PFTs
