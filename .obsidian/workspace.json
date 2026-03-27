@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
+                "file": "Dermatology/Hidradenitis Suppurativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autoimmune Lab Interpretation Wisdom"
+              "title": "Hidradenitis Suppurativa"
             }
           }
         ]
@@ -180,12 +180,15 @@
   },
   "active": "6cb8901a3f893dc1",
   "lastOpenFiles": [
-    "Rheumatology/Sjögrens Disease.md",
-    "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
-    "Rheumatology/Rheumatoid Arthritis.md",
     "Rheumatology/IgA Vasculitis (Henoch-Schönlein Purpura).md",
+    "Dermatology/Hidradenitis Suppurativa.md",
+    "Dermatology",
+    "Rheumatology/Hidradenitis Suppurativa.md",
     "Rheumatology/Systemic Lupus Erythematosus.md",
+    "Rheumatology/Sjögrens Disease.md",
     "Rheumatology/Small Vessel Vasculitis Classification.md",
+    "Rheumatology/Rheumatoid Arthritis.md",
+    "Rheumatology/Autoimmune Lab Interpretation Wisdom.md",
     "conflict-files-obsidian-git.md",
     "Ambulatory/Orientation.md",
     "Rheumatology",
@@ -208,9 +211,6 @@
     "Internal Medicine/ICU Indications.md",
     "Internal Medicine",
     "Gastroenterology/Liver/Physiology.md",
-    "Ambulatory/Annals of IM (T2DM).md",
-    "Ambulatory/Acute Abdominal Pain.md",
-    "Untitled",
     "Ambulatory",
     "zzzImages/Pasted image 20250917220625.png",
     "zzzImages/Pasted image 20250917220744.png",
