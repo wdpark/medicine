@@ -1,4 +1,5 @@
 - Double check legal relationships (ie married, children, etc.)
+	- Spouse -> adults children -> parents -> siblings
 - Autopsies are free of charge
 	- Only take half a day to one day at most
 - Open casket still possible
