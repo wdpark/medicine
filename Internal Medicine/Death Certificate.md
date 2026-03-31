@@ -1,2 +1,7 @@
 - Double check legal relationships (ie married, children, etc.)
+- Autopsies are free of charge
+	- Only take half a day to one day at most
+- Open casket still possible
+	- Thoraco-abdominal Y incision and posterior head incision
+- POA ends after death, must otherwise specify
 - 
