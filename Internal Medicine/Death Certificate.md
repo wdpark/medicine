@@ -13,6 +13,7 @@
 	- Accident
 	- Undetermined
 	- Therapeutic complication
+- I can only put natural as manner of death, nothing else
 
 - Cause of Death
 	- Specific disease or injury that resulted in death
