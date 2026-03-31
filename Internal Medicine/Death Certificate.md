@@ -5,4 +5,10 @@
 - Open casket still possible
 	- Thoraco-abdominal Y incision and posterior head incision
 - POA ends after death, must otherwise specify
-- 
+
+- Manner of Death
+	- Natural
+	- Homicide
+	- Suicide
+	- Accident
+	- Undetermined
