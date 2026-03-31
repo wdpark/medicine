@@ -6,7 +6,7 @@
 	- Thoraco-abdominal Y incision and posterior head incision
 - POA ends after death, must otherwise specify
 
-- Manner of Death
+- Manner of Death (CHF d/t alcohol is an exception)
 	- Natural
 	- Homicide
 	- Suicide
