@@ -12,7 +12,7 @@
 	- Suicide
 	- Accident
 	- Undetermined
-	- Therapeutic complication
+	- Therapeutic complication (only in NY)
 - I can only put natural as manner of death, nothing else
 
 - Cause of Death
