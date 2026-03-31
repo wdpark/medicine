@@ -14,4 +14,6 @@
 	- Undetermined
 	- Therapeutic complication
 
-- 
+- Cause of Death
+	- Specific disease or injury that resulted in death
+	- NOT sepsis, hemorrhage, cardiopulmonary arrest, etc. 
