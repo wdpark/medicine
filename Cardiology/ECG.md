@@ -41,5 +41,21 @@ Prolonged QT Interval:
 	- Misc: CAD, CMP, bradycardia, high-grade AVB, hypothyroidism, hypothermia, BBB
 
 LVH:
+- Etiologies: HTN, AS, HCM, CoA
 - Cornell: R in aVL + S in V3 
 	- >28 mm in men and >20 in women
+
+RVH:
+- Etiologies: cor pulmonale, congenital (tetralogy of Fallot, TGA, PS, ASD, VSD), MS, TR
+- R>S or R>=7 mm in V1 or S>=7 mm in V5/V6
+	- Not sensitive, but very specific
+
+STE:
+- Worry about acute MI/STEMI
+- Represents transmural, full-thickness infarction due to complete occlusion
+- ACS symptoms? ECG shows STE WITH reciprocal changes? Troponin up? -> Cath lab
+	- Otherwise could angio?
+
+STD:
+- Could just be myocardial ischemia or NSTEMI
+- Represents subendocardial infarction due to incomplete occlusion
