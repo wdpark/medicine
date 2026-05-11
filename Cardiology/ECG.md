@@ -57,5 +57,8 @@ STE:
 	- Otherwise could angio?
 
 STD:
-- Could just be myocardial ischemia or NSTEMI
+- Could just be unstable angina or NSTEMI
+	- Troponin elevation in NSTEMI, not in unstable angina
 - Represents subendocardial infarction due to incomplete occlusion
+
+--> Basically, true STEMI will have reciprocal changes, but STD alone will usually not have reciprocal changes
